@@ -1,0 +1,656 @@
+Employee ID,Name of Assessor,Vertical:,Account,Business Acumen,Interpersonal Sensitivity,Professional Ethics,Problem Solving and Decision Making,Communication Skills,Corporate Steward,Relevant Professional Understanding,Computer Proficiency,Proficiency in the use of System and Tools,Data Management,People Development,Strategic Management
+Employee 328,Supervisor 2,Healthcare,Account 31,2,2,3,2,3,2,2,3,3,2,2,2
+Employee 269,Supervisor 2,Healthcare,Account 31,2,2,3,2,3,2,2,3,3,2,2,2
+Employee 385,Supervisor 2,Healthcare,Account 31,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 233,Supervisor 2,Healthcare,Account 31,2,1,3,2,3,2,3,3,3,2,2,2
+Employee 160,Supervisor 2,Contact Center,Account 50,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 111,Supervisor 2,Healthcare,Account 31,3,3,3,3,3,3,3,4,4,3,3,3
+Employee 65,Supervisor 2,Healthcare,Account 39,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 64,Supervisor 2,Healthcare,Account 31,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 59,Supervisor 2,Healthcare,Account 31,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 42,Supervisor 2,Contact Center,Account 24,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 17,Supervisor 2,Healthcare,Account 39,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 12,Supervisor 2,Healthcare,Account 15,2,2,3,2,3,2,3,3,3,2,2,2
+Employee 387,Supervisor 2,Contact Center,Account 46,1,2,3,1,1,1,1,1,1,1,2,2
+Employee 376,Supervisor 6,Contact Center,Account 46,1,2,2 ,2,2,2,2,2,2,2,2,2
+Employee 365,Supervisor 6,Contact Center,Account 46,2,3,3,2,3,2,3,3,3,3,3,3
+Employee 364,Supervisor 6,Contact Center,Account 46,2,2,2 ,1,2,2,2,2,2,2,2,2
+Employee 112,Supervisor 6,Contact Center,Account 46,2,2,2 ,2,3,2,2,3,3,3,2,2
+Employee 82,Supervisor 6,Contact Center,Account 46,4,4,3,3,3,3,4,3,3,3,3,3
+Employee 69,Supervisor 6,Contact Center,Account 46,3,3,2 ,3,3,3,3,3,3,3,3,3
+Employee 394,Supervisor 6,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 393,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 366,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 346,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 338,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 334,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 326,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,2,4,2,3,2,0
+Employee 321,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,4,3,3,2,0
+Employee 318,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,4,3,3,2,0
+Employee 314,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,2,0
+Employee 311,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,2,2,3,2,0
+Employee 307,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 302,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,2,0
+Employee 300,Supervisor 9,Research and Data,Account 10,2,2,2 ,2,2,2,3,4,2,2,0,0
+Employee 299,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,2,0
+Employee 294,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,3,2,2,0,0
+Employee 289,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,3,2,2,0,0
+Employee 107,Supervisor 9,Contact Center,Account 47,1,2,2 ,2,2,2,1,2,2,1,0,0
+Employee 403,Supervisor 3,Contact Center,Account 47,2,2,2 ,2,2,1,1,2,2,1,0,0
+Employee 401,Supervisor 3,Contact Center,Account 47,2,2,2 ,1,3,1,1,2,2,1,2,0
+Employee 342,Supervisor 3,Contact Center,Account 47,1,2,2 ,2,2,1,2,2,3,2,3,3
+Employee 349,Supervisor 3,Contact Center,Account 37,1,2,2 ,2,2,1,2,2,2,2,2,2
+Employee 344,Supervisor 23,Contact Center,Account 37,2,1,2 ,2,3,2,3,3,3,3,2,2
+Employee 340,Supervisor 23,Contact Center,Account 37,2,2,3,3,2,2,2,3,3,3,2,2
+Employee 339,Supervisor 23,Contact Center,Account 37,2,1,2 ,2,1,2,2,3,3,3,2,2
+Employee 315,Supervisor 23,Contact Center,Account 37,2,1,2 ,1,2,2,2,2,2,1,2,2
+Employee 293,Supervisor 23,Contact Center,Account 37,2,1,2 ,2,3,2,3,3,3,3,2,2
+Employee 291,Supervisor 23,Contact Center,Account 37,2,1,2 ,3,2,2,1,3,3,2,2,2
+Employee 308,Supervisor 23,Contact Center,Account 47,2,2,2 ,2,3,2,2,3,3,2,3,2
+Employee 301,Supervisor 3,Contact Center,Account 47,2,2,2 ,3,3,2,2,3,3,2,2,2
+Employee 282,Supervisor 3,Contact Center,Account 47,2,3,3,2,3,2,2,2,2,2,3,3
+Employee 411,Supervisor 3,Healthcare,Account 31,1,2,2 ,1,2,1,1,2,2,1,2,2
+Employee 390,Supervisor 50,Healthcare,Account 31,2,3,3,2,3,3,2,3,3,2,3,3
+Employee 386,Supervisor 50,Healthcare,Account 31,2,2,2 ,1,1,1,1,2,2,1,2,2
+Employee 363,Supervisor 50,Healthcare,Account 31,2,2,2 ,2,2,2,2,2,2,2,2,2
+Employee 115,Supervisor 50,Healthcare,Account 31,2,2,2 ,3,2,2,3,2,3,2,3,3
+Employee 98,Supervisor 50,Healthcare,Account 31,2,2,2 ,2,2,2,2,2,2,2,3,3
+Employee 93,Supervisor 50,Healthcare,Account 31,2,2,2 ,3,1,2,3,3,3,2,3,2
+Employee 89,Supervisor 50,Healthcare,Account 31,2,2,2 ,2,2,2,2,2,2,2,2,2
+Employee 83,Supervisor 50,Healthcare,Account 31,2,3,2 ,2,2,2,2,2,3,1,2,3
+Employee 71,Supervisor 50,Healthcare,Account 31,1,2,2 ,1,1,1,1,2,2,1,2,2
+Employee 51,Supervisor 50,Healthcare,Account 31,2,2,2 ,2,2,2,2,2,3,2,3,2
+Employee 323,Supervisor 50,Research and Data,Account 21,1,2,2 ,1,1,1,1,2,2,1,2,0
+Employee 261,Supervisor 1,Research and Data,Account 21,1,2,2 ,2,2,1,2,2,3,2,3,2
+Employee 202,Supervisor 1,Research and Data,Account 21,1,1,2 ,1,2,1,1,2,2,1,2,0
+Employee 195,Supervisor 1,Research and Data,Account 21,1,2,2 ,2,2,1,2,2,2,1,2,0
+Employee 154,Supervisor 1,Research and Data,Account 21,2,2,3,2,2,1,2,3,3,2,3,2
+Employee 441,Supervisor 1,Administration,Account 27,1,2,2 ,1,3,1,1,2,1,1,0,0
+Employee 359,Supervisor 14,Administration,Account 27,1,2,2 ,1,3,1,1,2,1,1,0,0
+Employee 357,Supervisor 14,Administration,Account 27,1,2,2 ,1,3,1,1,2,1,1,0,0
+Employee 356,Supervisor 14,Administration,Account 27,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 355,Supervisor 14,Administration,Account 27,2,3,3,2,3,3,2,2,2,2,2,2
+Employee 289,Supervisor 14,Research and Data,Account 42,2,2,2 ,2,2,2,2,3,2,2,0,0
+Employee 286,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,3,2,2,2,2,0
+Employee 285,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,2,0
+Employee 352,Supervisor 9,Administration,Account 27,2,2,3,2,3,2,2,2,2,1,2,0
+Employee 280,Supervisor 14,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,2,0
+Employee 279,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,3,4,3,2,2,0
+Employee 278,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,3,2,3,2,2,2
+Employee 276,Supervisor 9,Research and Data,Account 42,3,2,3,2,2,3,3,2,3,3,3,2
+Employee 275,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 271,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 267,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,2,2,2,2,2
+Employee 260,Supervisor 9,Research and Data,Account 42,2,2,3,2,2,2,2,2,2,2,0,0
+Employee 259,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 258,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 253,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,3,3,3,2,0
+Employee 251,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 250,Supervisor 9,Research and Data,Account 42,2,2,2 ,3,2,3,3,2,3,3,2,2
+Employee 248,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,2,3,2,2,2
+Employee 247,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,3,3,2,3,2,2,0
+Employee 127,Supervisor 9,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 352,Supervisor 49,Administration,Account 27,0,0,0,0,0,0,0,0,0,0,0,0
+Employee 149,Supervisor 14,Research and Data,Account 21,2,2,2 ,2,2,2,3,4,4,3,2,2
+Employee 443,Supervisor 18,Financial,Account 36,2,2,3,2,2,2,2,2,3,2,3,2
+Employee 413,Supervisor 18,Research and Data,Account 28,2,2,3,2,2,1,2,2,2,2,3,2
+Employee 399,Supervisor 18,Research and Data,Account 23,2,2,3,2,2,2,2,4,3,2,3,2
+Employee 343,Supervisor 18,Administration,Account 19,2,3,3,2,3,2,3,3,2,2,3,3
+Employee 322,Supervisor 18,Administration,Account 18,3,3,3,3,2,3,3,3,3,3,3,3
+Employee 216,Supervisor 18,Research and Data,Account 16,2,2,2 ,2,1,1,2,2,2,2,3,2
+Employee 179,Supervisor 18,Research and Data,Account 34,2,2,2 ,2,2,2,2,3,3,2,3,2
+Employee 174,Supervisor 18,Research and Data,Account 44,2,2,2 ,2,1,2,2,2,2,2,3,2
+Employee 158,Supervisor 18,Research and Data,Account 42,3,2,3,2,3,2,2,2,3,3,3,3
+Employee 147,Supervisor 18,Research and Data,Account 21,2,2,2 ,2,2,2,2,2,2,2,3,3
+Employee 8,Supervisor 18,Research and Data,Account 6,2,2,3,2,2,2,2,2,2,2,3,3
+Employee 351,Supervisor 18,Administration,Account 30,1,2,2 ,2,2,1,1,3,3,2,0,0
+Employee 215,Supervisor 37,Administration,Account 30,1,1,2 ,1,2,2,1,4,3,2,0,0
+Employee 207,Supervisor 37,Administration,Account 30,1,1,2 ,1,1,1,1,4,2,1,0,0
+Employee 309,Supervisor 37,Financial,Account 14,1,2,2 ,2,2,1,2,2,2,1,0,0
+Employee 354,Supervisor 31,Administration,Account 27,1,2,2 ,1,3,2,2,2,2,2,2,0
+Employee 305,Supervisor 14,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 408,Supervisor 34,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 78,Supervisor 34,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 362,Supervisor 34,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,2,0
+Employee 123,Supervisor 34,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,2,0
+Employee 99,Supervisor 34,Healthcare,Account 39,2,1,2 ,2,2,2,2,1,2,1,2,0
+Employee 86,Supervisor 34,Healthcare,Account 39,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 87,Supervisor 34,Healthcare,Account 39,1,2,2 ,1,2,2,2,2,2,1,2,2
+Employee 109,Supervisor 34,Healthcare,Account 39,2,2,2 ,2,2,1,2,2,2,1,2,2
+Employee 44,Supervisor 34,Healthcare,Account 39,2,2,2 ,2,2,2,2,2,2,1,2,2
+Employee 381,Supervisor 34,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 68,Supervisor 21,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 48,Supervisor 21,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 54,Supervisor 21,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 368,Supervisor 21,Healthcare,Account 31,1,2,2 ,1,2,1,1,1,1,1,0,0
+Employee 461,Supervisor 21,Contact Center,Account 32,3,3,3,2,2,2,3,3,3,3,2,2
+Employee 458,Supervisor 24,Contact Center,Account 32,1,1,3,1,2,3,3,3,3,2,2,2
+Employee 457,Supervisor 24,Contact Center,Account 32,3,2,3,2,3,1,2,3,2,3,2,2
+Employee 456,Supervisor 24,Contact Center,Account 32,3,2,3,2,4,2,3,3,2,3,2,2
+Employee 450,Supervisor 24,Contact Center,Account 32,1,1,2 ,1,3,2,2,2,3,2,2,2
+Employee 449,Supervisor 24,Contact Center,Account 32,4,4,3,3,4,4,3,4,3,4,2,2
+Employee 436,Supervisor 24,Contact Center,Account 32,2,2,3,3,3,2,3,3,3,2,3,2
+Employee 435,Supervisor 24,Contact Center,Account 32,3,3,3,3,3,4,3,3,4,4,3,3
+Employee 432,Supervisor 24,Contact Center,Account 32,4,4,3,3,3,4,4,3,3,4,4,3
+Employee 430,Supervisor 24,Contact Center,Account 32,3,3,2 ,2,4,2,2,2,2,2,3,2
+Employee 427,Supervisor 24,Contact Center,Account 32,4,4,3,3,3,4,3,3,3,4,4,3
+Employee 419,Supervisor 24,Contact Center,Account 32,4,3,3,3,4,4,3,3,4,4,3,3
+Employee 417,Supervisor 24,Contact Center,Account 32,4,3,3,3,3,4,4,3,4,4,3,3
+Employee 392,Supervisor 24,Healthcare,Account 31,2,1,2 ,2,3,2,1,1,1,1,0,0
+Employee 391,Supervisor 32,Healthcare,Account 31,2,2,2 ,2,3,2,2,1,1,1,0,0
+Employee 380,Supervisor 32,Healthcare,Account 31,2,2,2 ,2,2,1,1,1,1,1,0,0
+Employee 379,Supervisor 32,Healthcare,Account 31,1,2,2 ,1,3,1,1,1,1,1,0,0
+Employee 104,Supervisor 32,Healthcare,Account 31,2,2,2 ,2,2,1,1,1,2,1,0,0
+Employee 102,Supervisor 32,Healthcare,Account 31,3,2,2 ,2,2,1,1,1,1,1,0,0
+Employee 395,Supervisor 32,Financial,Account 9,1,1,2 ,1,1,1,2,2,1,2,2,2
+Employee 167,Supervisor 43,Financial,Account 9,1,2,2 ,1,2,1,1,2,1,2,2,0
+Employee 118,Supervisor 43,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 100,Supervisor 46,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 90,Supervisor 46,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 455,Supervisor 46,Administration,Account 30,1,2,2 ,1,2,1,1,2,1,1,2,0
+Employee 371,Supervisor 4,Financial,Account 9,2,1,2 ,2,1,1,2,2,1,2,2,2
+Employee 58,Supervisor 43,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 50,Supervisor 46,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 43,Supervisor 46,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 41,Supervisor 46,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 433,Supervisor 46,Administration,Account 30,3,3,3,2,3,3,2,3,2,2,3,3
+Employee 34,Supervisor 4,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 423,Supervisor 46,Administration,Account 30,2,2,2 ,2,2,2,1,3,2,1,2,2
+Employee 420,Supervisor 4,Administration,Account 30,2,2,2 ,2,2,1,2,3,2,1,2,2
+Employee 402,Supervisor 4,Healthcare,Account 31,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 183,Supervisor 25,Administration,Account 30,2,3,3,3,3,2,2,3,3,2,2,2
+Employee 384,Supervisor 4,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 120,Supervisor 25,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 117,Supervisor 25,Healthcare,Account 31,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 32,Supervisor 25,Contact Center,Account 33,2,2,2 ,1,2,1,2,1,1,1,0,0
+Employee 96,Supervisor 46,Healthcare,Account 31,1,1,2 ,2,2,1,1,1,1,1,0,0
+Employee 84,Supervisor 25,Healthcare,Account 31,2,2,2 ,2,2,1,2,1,1,1,0,0
+Employee 77,Supervisor 25,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 157,Supervisor 25,Administration,Account 30,3,3,3,2,3,2,2,3,3,2,2,2
+Employee 75,Supervisor 4,Healthcare,Account 31,1,2,2 ,1,2,1,1,1,1,1,0,0
+Employee 56,Supervisor 25,Healthcare,Account 31,2,1,2 ,1,2,1,1,1,2,1,0,0
+Employee 52,Supervisor 25,Healthcare,Account 31,2,3,2 ,1,2,1,1,1,2,1,0,0
+Employee 309,Supervisor 25,Financial,Account 14,1,2,2 ,2,2,1,2,2,2,1,0,0
+Employee 27,Supervisor 31,Contact Center,Account 33,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 21,Supervisor 46,Contact Center,Account 33,1,2,2 ,1,2,1,2,1,1,1,0,0
+Employee 5,Supervisor 46,Contact Center,Account 33,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 63,Supervisor 46,Healthcare,Account 31,1,2,2 ,2,2,2,2,2,2,1,2,2
+Employee 51,Supervisor 50,Healthcare,Account 31,2,2,2 ,2,2,2,2,2,3,1,3,2
+Employee 332,Supervisor 50,Contact Center,Account 20,1,2,2 ,2,2,1,1,3,2,1,2,2
+Employee 281,Supervisor 40,Contact Center,Account 20,1,2,2 ,1,1,1,1,2,1,1,2,2
+Employee 264,Supervisor 40,Contact Center,Account 20,1,1,2 ,2,2,1,1,2,2,1,2,2
+Employee 254,Supervisor 40,Contact Center,Account 20,1,1,2 ,2,2,1,1,2,2,1,2,2
+Employee 252,Supervisor 40,Contact Center,Account 20,2,1,2 ,2,2,1,1,3,2,1,2,2
+Employee 249,Supervisor 40,Contact Center,Account 20,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 244,Supervisor 40,Contact Center,Account 20,2,1,2 ,2,1,1,1,2,2,1,2,2
+Employee 230,Supervisor 40,Contact Center,Account 20,1,2,2 ,2,2,1,1,1,1,1,2,2
+Employee 210,Supervisor 40,Contact Center,Account 20,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 205,Supervisor 40,Contact Center,Account 20,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 190,Supervisor 40,Contact Center,Account 20,2,2,3,2,2,2,2,2,2,2,2,2
+Employee 178,Supervisor 40,Contact Center,Account 20,2,2,3,2,2,1,2,2,2,1,2,2
+Employee 172,Supervisor 40,Contact Center,Account 20,1,1,2 ,2,1,1,1,3,2,1,2,2
+Employee 57,Supervisor 40,Contact Center,Account 20,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 33,Supervisor 40,Contact Center,Account 20,1,1,2 ,1,2,1,1,1,1,1,2,2
+Employee 30,Supervisor 40,Contact Center,Account 20,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 474,Supervisor 40,Research and Data,Account 6,1,2,2 ,1,1,1,1,1,1,1,2,2
+Employee 473,Supervisor 52,Research and Data,Account 6,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 465,Supervisor 52,Research and Data,Account 6,2,2,2 ,1,1,1,1,1,1,1,2,2
+Employee 447,Supervisor 52,Research and Data,Account 6,2,2,2 ,1,1,1,1,1,1,1,2,2
+Employee 446,Supervisor 52,Research and Data,Account 6,2,2,2 ,2,2,1,2,1,1,1,2,2
+Employee 444,Supervisor 52,Research and Data,Account 6,2,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 442,Supervisor 52,Research and Data,Account 6,2,2,2 ,2,1,1,1,1,1,1,2,2
+Employee 440,Supervisor 52,Research and Data,Account 6,2,2,2 ,2,3,1,1,1,1,1,2,2
+Employee 437,Supervisor 52,Research and Data,Account 6,2,2,2 ,1,1,1,1,1,1,1,2,2
+Employee 421,Supervisor 52,Research and Data,Account 6,2,2,2 ,2,2,2,2,2,2,2,2,2
+Employee 418,Supervisor 52,Research and Data,Account 26,2,2,2 ,2,2,2,2,2,2,2,2,2
+Employee 416,Supervisor 52,Research and Data,Account 26,2,2,2 ,2,2,2,2,2,2,2,3,2
+Employee 375,Supervisor 52,Research and Data,Account 6,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 243,Supervisor 52,Research and Data,Account 42,2,2,2 ,2,3,2,2,2,2,2,2,2
+Employee 242,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 116,Supervisor 9,Research and Data,Account 6,2,2,2 ,2,1,1,1,1,1,1,2,2
+Employee 108,Supervisor 52,Research and Data,Account 6,2,2,2 ,2,2,1,2,1,2,2,3,2
+Employee 236,Supervisor 52,Research and Data,Account 42,2,2,2 ,2,2,3,2,2,2,2,0,0
+Employee 95,Supervisor 9,Research and Data,Account 6,2,2,2 ,1,1,1,1,1,1,1,2,2
+Employee 94,Supervisor 52,Research and Data,Account 6,2,2,2 ,1,1,1,1,1,1,1,2,2
+Employee 92,Supervisor 52,Research and Data,Account 6,2,2,2 ,1,1,1,1,1,1,1,2,2
+Employee 79,Supervisor 52,Research and Data,Account 6,2,2,2 ,2,1,1,1,1,1,1,2,2
+Employee 67,Supervisor 52,Research and Data,Account 6,2,2,2 ,1,1,2,2,2,1,1,2,2
+Employee 31,Supervisor 52,Research and Data,Account 6,2,2,2 ,1,1,2,2,2,2,2,2,2
+Employee 7,Supervisor 52,Research and Data,Account 6,3,3,2 ,2,2,2,3,2,2,2,2,2
+Employee 138,Supervisor 52,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 139,Supervisor 53,Healthcare,Account 40,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 153,Supervisor 53,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 156,Supervisor 53,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 169,Supervisor 53,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 81,Supervisor 53,Contact Center,Account 49,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 76,Supervisor 15,Contact Center,Account 49,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 62,Supervisor 15,Contact Center,Account 49,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 40,Supervisor 15,Contact Center,Account 49,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 22,Supervisor 15,Contact Center,Account 49,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 9,Supervisor 15,Contact Center,Account 49,1,1,2 ,1,2,1,1,2,1,2,0,0
+Employee 2,Supervisor 15,Contact Center,Account 49,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 182,Supervisor 15,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 409,Supervisor 53,Research and Data,Account 34,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 405,Supervisor 8,Research and Data,Account 34,1,1,2 ,1,1,1,1,4,1,1,0,0
+Employee 404,Supervisor 8,Research and Data,Account 34,1,1,2 ,1,1,1,1,4,1,1,0,0
+Employee 345,Supervisor 8,Research and Data,Account 34,1,2,2 ,2,1,1,1,4,2,1,2,0
+Employee 377,Supervisor 8,Contact Center,Account 32,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 369,Supervisor 47,Contact Center,Account 32,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 105,Supervisor 47,Contact Center,Account 32,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 101,Supervisor 47,Contact Center,Account 32,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 66,Supervisor 47,Contact Center,Account 32,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 19,Supervisor 47,Contact Center,Account 32,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 336,Supervisor 47,Research and Data,Account 34,2,3,2 ,2,2,1,2,3,2,1,2,0
+Employee 11,Supervisor 8,Contact Center,Account 32,1,1,2 ,1,1,1,1,1,2,1,0,0
+Employee 335,Supervisor 47,Research and Data,Account 34,3,3,2 ,2,4,2,2,4,2,2,2,2
+Employee 329,Supervisor 8,Research and Data,Account 34,2,3,2 ,2,2,1,1,4,2,1,2,0
+Employee 206,Supervisor 8,Healthcare,Account 40,1,1,2 ,1,2,1,1,3,1,1,0,0
+Employee 320,Supervisor 53,Research and Data,Account 34,1,2,2 ,2,2,1,1,4,2,1,2,0
+Employee 312,Supervisor 8,Research and Data,Account 34,2,2,2 ,2,2,1,1,4,2,1,2,0
+Employee 288,Supervisor 8,Research and Data,Account 34,2,2,2 ,2,2,2,1,4,2,1,2,0
+Employee 274,Supervisor 8,Research and Data,Account 34,3,2,2 ,2,2,2,2,4,2,4,2,0
+Employee 273,Supervisor 8,Research and Data,Account 34,2,2,2 ,2,2,2,1,4,2,1,2,0
+Employee 439,Supervisor 8,Contact Center,Account 32,2,3,3,2,3,2,2,2,3,2,3,2
+Employee 255,Supervisor 15,Research and Data,Account 34,2,3,2 ,2,2,2,2,4,2,2,2,2
+Employee 29,Supervisor 8,Contact Center,Account 32,2,3,3,2,3,2,2,2,3,2,0,0
+Employee 330,Supervisor 15,Research and Data,Account 23,1,1,2 ,1,1,1,1,2,2,1,0,0
+Employee 471,Supervisor 41,Research and Data,Account 25,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 26,Supervisor 41,Contact Center,Account 32,2,2,2 ,1,3,1,2,2,2,1,0,0
+Employee 20,Supervisor 15,Contact Center,Account 32,2,2,2 ,1,3,1,2,2,2,1,0,0
+Employee 468,Supervisor 15,Research and Data,Account 25,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 470,Supervisor 41,Research and Data,Account 34,3,4,3,4,4,4,3,4,3,4,4,4
+Employee 15,Supervisor 8,Contact Center,Account 32,2,2,2 ,1,2,1,2,2,2,1,0,0
+Employee 14,Supervisor 15,Contact Center,Account 32,2,2,3,2,3,1,2,2,2,1,0,0
+Employee 228,Supervisor 15,Research and Data,Account 34,3,3,3,4,3,3,3,4,3,4,3,3
+Employee 13,Supervisor 8,Contact Center,Account 32,2,1,2 ,1,2,1,2,2,2,1,0,0
+Employee 209,Supervisor 15,Research and Data,Account 34,3,2,2 ,3,2,2,2,4,2,2,2,0
+#N/A,Supervisor 8,Contact Center,Account 32,2,2,3,2,2,1,2,1,2,1,0,0
+Employee 203,Supervisor 15,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 173,Supervisor 49,Healthcare,Account 40,2,2,2 ,1,3,1,2,2,2,1,0,0
+Employee 152,Supervisor 49,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 4,Supervisor 49,Contact Center,Account 32,2,2,2 ,1,3,1,2,2,2,1,0,0
+Employee 134,Supervisor 15,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 140,Supervisor 49,Contact Center,Account 11,3,2,3,3,2,3,2,3,4,3,3,2
+Employee 472,Supervisor 15,Healthcare,Account 1,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 424,Supervisor 28,Healthcare,Account 1,1,1,2 ,1,1,1,1,1,1,1,2,2
+#N/A,Supervisor 28,Healthcare,Account 1,1,1,2 ,1,1,1,1,1,1,1,2,2
+#N/A,Supervisor 28,Healthcare,Account 1,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 426,Supervisor 28,Healthcare,Account 1,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 166,Supervisor 28,Administration,Account 12,1,2,2 ,2,1,1,1,3,3,1,0,0
+Employee 170,Supervisor 13,Administration,Account 5,2,2,2 ,2,1,2,2,3,3,2,3,2
+Employee 180,Supervisor 13,Healthcare,Account 29,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 187,Supervisor 45,Healthcare,Account 29,1,1,2 ,1,2,1,1,2,2,1,0,0
+Employee 171,Supervisor 26,Healthcare,Account 29,1,2,2 ,2,2,2,1,2,2,1,0,0
+Employee 231,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 237,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,2,1,1,2,2,1,0,0
+Employee 226,Supervisor 45,Healthcare,Account 38,1,2,2 ,1,2,2,1,2,2,1,0,0
+Employee 240,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 241,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 277,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 389,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,2,1,1,2,1,1,0,0
+Employee 319,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,1,1,1,2,2,1,0,0
+Employee 297,Supervisor 45,Healthcare,Account 38,1,1,2 ,1,2,1,1,2,2,1,0,0
+Employee 170,Supervisor 45,Administration,Account 5,0,0,0,0,0,0,0,0,0,0,0,0
+Employee 126,Supervisor 13,Administration,Account 5,3,3,3,3,2,3,2,4,2,3,3,2
+Employee 235,Supervisor 13,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 229,Supervisor 9,Research and Data,Account 42,3,2,3,3,2,3,3,4,3,3,3,3
+Employee 222,Supervisor 9,Research and Data,Account 42,2,2,2 ,2,2,2,2,2,2,2,2,2
+Employee 221,Supervisor 9,Research and Data,Account 42,3,2,3,3,2,3,3,2,3,3,3,3
+Employee 217,Supervisor 9,Research and Data,Account 42,2,2,3,3,2,3,3,2,3,3,3,3
+Employee 213,Supervisor 9,Research and Data,Account 42,3,2,2 ,2,2,2,3,2,3,2,2,0
+Employee 198,Supervisor 9,Research and Data,Account 42,3,2,3,3,2,2,2,2,2,2,3,3
+Employee 192,Supervisor 9,Research and Data,Account 42,2,2,2 ,3,2,3,3,2,3,3,2,0
+Employee 185,Supervisor 9,Research and Data,Account 42,3,2,2 ,3,3,3,3,4,3,3,2,0
+Employee 176,Supervisor 9,Research and Data,Account 42,2,3,3,3,2,3,3,2,3,3,3,3
+Employee 122,Supervisor 9,Contact Center,Account 50,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 45,Supervisor 22,Contact Center,Account 50,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 119,Supervisor 22,Contact Center,Account 50,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 141,Supervisor 22,Contact Center,Account 50,1,2,2 ,2,1,1,2,2,2,1,0,0
+Employee 398,Supervisor 22,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,2,2
+Employee 337,Supervisor 5,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,2,2
+Employee 161,Supervisor 5,Contact Center,Account 50,2,2,2 ,2,2,1,2,1,1,1,0,0
+Employee 303,Supervisor 22,Healthcare,Account 31,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 214,Supervisor 5,Contact Center,Account 50,1,0,2 ,1,1,1,1,1,1,1,0,0
+Employee 284,Supervisor 22,Contact Center,Account 50,1,2,2 ,1,1,1,1,1,1,1,0,0
+Employee 232,Supervisor 22,Healthcare,Account 31,2,2,2 ,1,3,1,2,2,2,1,2,2
+Employee 298,Supervisor 5,Contact Center,Account 50,1,2,2 ,1,1,1,1,1,1,1,0,0
+Employee 103,Supervisor 22,Healthcare,Account 31,1,1,2 ,1,2,1,1,1,1,1,2,2
+Employee 350,Supervisor 5,Contact Center,Account 50,2,2,2 ,1,1,1,1,2,1,1,0,0
+Employee 407,Supervisor 22,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 406,Supervisor 33,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 347,Supervisor 33,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 121,Supervisor 33,Financial,Account 35,1,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 327,Supervisor 48,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 316,Supervisor 33,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 114,Supervisor 33,Financial,Account 35,2,1,2 ,2,2,2,2,3,3,2,0,0
+Employee 287,Supervisor 48,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 265,Supervisor 33,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 263,Supervisor 33,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 113,Supervisor 33,Financial,Account 35,2,1,2 ,2,1,2,1,1,1,2,0,0
+Employee 200,Supervisor 48,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 151,Supervisor 33,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 400,Supervisor 33,Research and Data,Account 48,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 360,Supervisor 33,Research and Data,Account 48,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 74,Supervisor 33,Financial,Account 35,2,2,3,3,3,2,2,3,2,2,0,0
+Employee 246,Supervisor 48,Research and Data,Account 48,1,2,2 ,1,1,1,2,1,1,1,2,0
+Employee 148,Supervisor 33,Research and Data,Account 48,1,2,2 ,1,1,1,2,1,1,1,2,0
+Employee 382,Supervisor 33,Contact Center,Account 46,2,3,3,2,3,3,2,3,2,2,3,2
+Employee 317,Supervisor 7,Contact Center,Account 37,2,3,3,3,3,3,2,3,3,3,3,2
+Employee 283,Supervisor 7,Administration,Account 47,3,3,3,2,3,3,2,3,2,3,3,2
+Employee 193,Supervisor 7,Administration,Account 17,3,3,3,4,3,4,3,4,4,4,3,3
+#N/A,Supervisor 20,Administration,Account 17,4,4,3,4,4,4,3,3,4,4,4,4
+Employee 135,Supervisor 20,Healthcare,Account 17,3,3,3,3,3,3,3,3,3,3,3,3
+Employee 1,Supervisor 20,Healthcare,Account 17,3,4,3,3,3,3,3,3,3,3,4,3
+Employee 132,Supervisor 20,Healthcare,Account 40,0,0,0,0,0,0,0,0,0,0,0,0
+Employee 130,Supervisor 49,Healthcare,Account 40,2,3,2 ,2,2,2,2,2,2,2,2,2
+Employee 130,Supervisor 49,Healthcare,Account 40,0,0,0,0,0,0,0,0,0,0,0,0
+Employee 128,Supervisor 49,Healthcare,Account 40,2,3,2 ,3,2,2,2,2,2,2,2,2
+Employee 127,Supervisor 49,Healthcare,Account 40,2,2,2 ,1,1,2,1,2,2,2,2,2
+Employee 155,Supervisor 49,Research and Data,Account 42,3,3,3,3,3,3,3,2,3,3,3,2
+Employee 150,Supervisor 9,Research and Data,Account 42,2,2,2 ,3,2,2,2,2,3,3,0,0
+Employee 144,Supervisor 9,Research and Data,Account 42,2,2,2 ,3,2,2,2,2,3,3,0,0
+Employee 131,Supervisor 9,Research and Data,Account 42,2,3,3,3,2,3,3,4,4,3,3,3
+Employee 220,Supervisor 9,Administration,Account 41,3,4,3,3,3,2,2,3,3,3,3,2
+Employee 431,Supervisor 11,Healthcare,Account 1,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 110,Supervisor 28,Healthcare,Account 2,2,2,3,2,3,2,2,3,3,2,0,0
+Employee 412,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 374,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 361,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 80,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 61,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 39,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 38,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 18,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 16,Supervisor 10,Healthcare,Account 2,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 445,Supervisor 10,Financial,Account 36,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 227,Supervisor 16,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 219,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 199,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 191,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 186,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 184,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 165,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 143,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 137,Supervisor 12,Healthcare,Account 40,1,1,2 ,1,2,1,1,1,1,1,0,0
+Employee 383,Supervisor 12,Research and Data,Account 16,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 372,Supervisor 33,Research and Data,Account 16,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 73,Supervisor 33,Research and Data,Account 16,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 70,Supervisor 33,Research and Data,Account 16,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 55,Supervisor 33,Research and Data,Account 16,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 47,Supervisor 33,Research and Data,Account 16,1,2,2 ,1,1,1,2,1,1,1,2,0
+Employee 37,Supervisor 33,Research and Data,Account 22,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 36,Supervisor 33,Research and Data,Account 16,2,2,2 ,2,1,1,2,1,1,1,2,2
+Employee 28,Supervisor 33,Research and Data,Account 16,1,2,2 ,1,1,1,2,1,1,1,2,0
+Employee 25,Supervisor 33,Research and Data,Account 16,2,2,2 ,2,1,1,2,1,2,1,2,0
+Employee 292,Supervisor 33,Research and Data,Account 23,1,1,2 ,1,1,1,1,2,1,1,0,0
+Employee 453,Supervisor 41,Financial,Account 36,3,3,3,3,2,2,2,2,2,2,2,2
+Employee 24,Supervisor 16,Research and Data,Account 16,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 23,Supervisor 33,Research and Data,Account 16,1,2,2 ,1,1,1,1,1,1,1,2,0
+Employee 373,Supervisor 33,Administration,Account 45,1,2,2 ,1,2,1,1,2,1,1,0,0
+Employee 218,Supervisor 44,Administration,Account 45,3,3,3,3,3,3,3,3,3,3,2,2
+Employee 208,Supervisor 44,Administration,Account 45,3,3,3,3,2,3,3,3,3,2,0,0
+Employee 204,Supervisor 44,Administration,Account 45,2,2,2 ,2,2,2,2,3,3,1,0,0
+Employee 378,Supervisor 44,Financial,Account 8,2,2,3,2,2,2,2,1,2,1,2,2
+Employee 348,Supervisor 29,Financial,Account 8,2,2,3,2,2,2,2,1,1,1,2,2
+Employee 290,Supervisor 29,Financial,Account 8,2,2,3,3,3,3,2,3,2,3,2,2
+Employee 10,Supervisor 29,Contact Center,Account 20,2,1,2 ,1,2,1,1,1,1,1,2,2
+Employee 35,Supervisor 40,Contact Center,Account 24,2,2,3,2,3,2,2,1,1,1,3,2
+Employee 72,Supervisor 38,Financial,Account 35,2,2,2 ,2,2,3,2,3,2,1,2,2
+Employee 467,Supervisor 48,Financial,Account 13,4,4,3,4,4,3,4,4,4,4,4,4
+Employee 466,Supervisor 36,Financial,Account 13,4,4,3,3,4,3,3,4,4,4,3,4
+Employee 464,Supervisor 36,Financial,Account 13,4,4,3,4,4,4,4,4,4,4,4,4
+Employee 463,Supervisor 36,Financial,Account 13,4,4,3,3,3,3,4,3,3,4,4,4
+Employee 462,Supervisor 36,Financial,Account 13,4,4,3,4,3,4,3,4,4,4,4,4
+Employee 459,Supervisor 36,Financial,Account 13,3,4,3,4,4,3,3,3,3,4,4,4
+Employee 454,Supervisor 36,Financial,Account 13,4,4,3,3,4,3,3,3,3,3,4,4
+Employee 452,Supervisor 36,Financial,Account 13,4,4,3,4,3,3,4,4,4,4,4,4
+Employee 451,Supervisor 36,Financial,Account 13,4,4,3,4,4,4,3,3,3,3,3,4
+Employee 97,Supervisor 36,Healthcare,Account 15,1,2,2 ,1,1,2,1,2,2,1,2,2
+Employee 91,Supervisor 42,Healthcare,Account 15,2,1,2 ,1,1,1,1,2,2,1,2,2
+Employee 429,Supervisor 42,Healthcare,Account 1,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 194,Supervisor 39,Healthcare,Account 40,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 188,Supervisor 39,Healthcare,Account 38,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 146,Supervisor 39,Healthcare,Account 40,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 212,Supervisor 39,Healthcare,Account 40,2,2,2 ,1,3,1,2,2,2,1,0,0
+Employee 175,Supervisor 39,Healthcare,Account 40,2,2,3,2,3,2,2,3,3,2,0,0
+Employee 145,Supervisor 39,Healthcare,Account 40,2,2,2 ,1,3,1,2,2,2,1,0,0
+Employee 133,Supervisor 39,Healthcare,Account 40,2,3,3,2,3,2,3,3,3,2,2,2
+Employee 3,Supervisor 39,Healthcare,Account 2,2,2,3,2,3,2,3,3,3,2,2,2
+Employee 313,Supervisor 39,Financial,Account 14,1,2,2 ,2,1,1,2,2,2,1,0,0
+Employee 309,Supervisor 31,Financial,Account 14,1,2,2 ,2,2,1,2,2,2,1,0,0
+Employee 304,Supervisor 31,Financial,Account 14,1,2,2 ,1,1,1,2,2,2,1,0,0
+Employee 425,Supervisor 31,Research and Data,Account 21,1,1,2 ,1,1,1,1,1,1,1,0,0
+Employee 270,Supervisor 1,Financial,Account 14,1,2,2 ,1,2,1,1,2,2,1,0,0
+Employee 239,Supervisor 31,Research and Data,Account 21,1,2,2 ,1,1,1,2,1,1,1,0,0
+Employee 234,Supervisor 1,Financial,Account 14,1,1,2 ,1,1,1,2,2,2,1,0,0
+Employee 370,Supervisor 31,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 367,Supervisor 19,Healthcare,Account 39,2,2,2 ,1,1,1,1,1,1,2,2,2
+Employee 306,Supervisor 19,Healthcare,Account 39,2,2,2 ,1,1,2,1,1,1,2,2,2
+Employee 238,Supervisor 19,Financial,Account 14,1,2,2 ,2,2,2,2,2,2,2,0,0
+Employee 296,Supervisor 31,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 88,Supervisor 19,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,2,2,2
+Employee 85,Supervisor 17,Healthcare,Account 39,2,2,3,2,1,1,2,1,1,2,3,2
+Employee 53,Supervisor 19,Healthcare,Account 39,2,1,2 ,1,1,1,2,1,1,1,2,2
+Employee 53,Supervisor 19,Healthcare,Account 39,2,1,2 ,2,1,2,0,0,0,0,0,0
+Employee 49,Supervisor 19,Healthcare,Account 39,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 46,Supervisor 19,Administration,Account 4,3,4,3,4,4,3,3,2,3,3,3,3
+Employee 168,Supervisor 27,Administration,Account 3,3,3,3,2,4,3,2,2,3,3,3,2
+Employee 224,Supervisor 27,Administration,Account 3,3,3,3,2,4,3,2,2,3,2,3,2
+Employee 262,Supervisor 27,Administration,Account 3,2,3,3,2,3,3,2,2,2,2,3,2
+Employee 469,Supervisor 27,Administration,Account 3,2,2,2 ,1,3,1,1,2,2,1,3,2
+Employee 341,Supervisor 27,Research and Data,Account 43,1,2,2 ,1,2,1,1,1,1,1,2,2
+Employee 310,Supervisor 51,Research and Data,Account 43,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 295,Supervisor 51,Research and Data,Account 43,1,2,2 ,1,2,1,1,1,1,1,2,2
+Employee 272,Supervisor 51,Research and Data,Account 43,1,1,2 ,2,1,1,1,1,1,1,2,2
+Employee 460,Supervisor 51,Financial,Account 13,2,2,3,2,3,2,2,2,2,2,3,2
+Employee 256,Supervisor 30,Research and Data,Account 43,1,2,2 ,2,2,2,2,1,1,1,2,2
+Employee 415,Supervisor 51,Financial,Account 13,2,2,3,2,3,2,2,2,2,2,2,2
+Employee 225,Supervisor 30,Research and Data,#N/A,1,2,2 ,2,2,1,2,1,1,1,2,2
+Employee 201,Supervisor 51,Research and Data,#N/A,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 371,Supervisor 51,Financial,Account 9,2,2,2 ,2,2,2,2,2,2,2,2,2
+Employee 196,Supervisor 30,Research and Data,#N/A,2,2,2 ,2,1,1,2,2,2,2,2,2
+Employee 189,Supervisor 51,Research and Data,#N/A,1,1,2 ,1,1,1,1,1,1,1,2,2
+Employee 325,Supervisor 51,Financial,Account 8,2,3,3,2,3,2,2,2,2,3,3,2
+Employee 163,Supervisor 30,Financial,Account 14,2,2,3,2,2,2,3,2,3,2,3,3
+Employee 181,Supervisor 30,Research and Data,#N/A,1,1,2 ,1,1,1,1,2,2,1,2,2
+Employee 177,Supervisor 51,Research and Data,#N/A,2,1,2 ,2,1,1,2,2,2,2,2,2
+Employee 164,Supervisor 51,Research and Data,Account 43,2,2,2 ,2,1,1,2,1,2,1,2,2
+Employee 257,Supervisor 51,Administration,Account 45,1,2,2 ,1,2,1,2,2,1,2,0,0
+Employee 106,Supervisor 35,Financial,Account 35,2,2,2 ,1,3,2,2,2,2,2,2,2
+Employee 547,Supervisor 54,Financial,Account 7,3,2,,2,3,4,4,,4,4,2,2
+Employee 572,Supervisor 55,Financial,Account 7,2,2,,2,2,2,3,,2,3,2,0
+Employee 523,Supervisor 56,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 616,Supervisor 55,Financial,Account 7,2,2,,2,3,2,2,,1,2,2,0
+Employee 586,Supervisor 57,Financial,Account 7,2,3,,3,3,2,2,,2,2,2,0
+Employee 554,Supervisor 58,Financial,Account 7,4,4,,4,4,4,3,,4,3,3,3
+Employee 655,Supervisor 55,Financial,Account 7,2,2,,2,2,2,2,,1,2,0,0
+Employee 578,Supervisor 59,Financial,Account 7,3,3,,2,2,3,2,,3,2,2,0
+Employee 592,Supervisor 60,Financial,Account 7,4,4,,3,3,3,3,,3,3,3,3
+Employee 494,Supervisor 55,Financial,Account 7,2,1,,2,2,1,2,,2,2,0,0
+Employee 527,Supervisor 61,Financial,Account 7,3,4,,3,4,3,4,,4,3,4,3
+Employee 649,Supervisor 62,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,0
+Employee 600,Supervisor 55,Financial,Account 7,2,2,,2,2,1,2,,2,2,2,0
+Employee 668,Supervisor 63,Financial,Account 7,1,1,,1,2,1,2,,1,2,0,0
+Employee 575,Supervisor 64,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 608,Supervisor 65,Financial,Account 7,1,2,,1,2,2,1,,2,1,0,0
+Employee 533,Supervisor 66,Financial,Account 7,2,2,,2,2,2,2,,2,1,0,0
+Employee 621,Supervisor 67,Financial,Account 7,1,1,,2,2,2,2,,2,2,0,0
+Employee 542,Supervisor 68,Financial,Account 7,3,4,,4,4,4,3,,3,3,4,3
+Employee 604,Supervisor 69,Financial,Account 7,3,3,,3,3,3,3,,3,3,3,3
+Employee 605,Supervisor 57,Financial,Account 7,2,2,,3,3,2,2,,2,2,2,2
+Employee 475,Supervisor 65,Financial,Account 7,1,2,,2,2,1,2,,2,2,3,0
+Employee 486,Supervisor 55,Financial,Account 7,1,2,,1,1,1,1,,1,1,0,0
+Employee 591,Supervisor 63,Financial,Account 7,3,3,,3,3,3,3,,3,3,3,0
+Employee 666,Supervisor 57,Financial,Account 7,4,3,,4,4,4,3,,4,3,3,3
+Employee 574,Supervisor 70,Financial,Account 7,3,2,,3,3,3,2,,2,2,2,0
+Employee 646,Supervisor 65,Financial,Account 7,1,2,,1,2,1,1,,1,1,0,0
+Employee 661,Supervisor 57,Financial,Account 7,2,2,,2,2,2,2,,2,2,0,0
+Employee 637,Supervisor 68,Financial,Account 7,3,4,,4,4,4,4,,4,4,3,3
+Employee 518,Supervisor 55,Financial,Account 7,2,2,,1,2,2,1,,1,2,0,0
+Employee 506,Supervisor 61,Financial,Account 7,4,4,,4,4,4,4,,4,4,4,3
+Employee 620,Supervisor 57,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 496,Supervisor 54,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 509,Supervisor 70,Financial,Account 7,3,2,,3,3,3,2,,2,2,2,0
+Employee 545,Supervisor 65,Financial,Account 7,2,2,,2,2,2,2,,3,2,2,0
+Employee 503,Supervisor 63,Financial,Account 7,2,2,,2,2,2,2,,2,2,0,0
+Employee 493,Supervisor 57,Financial,Account 7,3,2,,3,2,2,3,,3,3,2,0
+Employee 583,Supervisor 71,Financial,Account 7,2,2,,2,2,2,2,,3,2,2,0
+Employee 492,Supervisor 55,Financial,Account 7,2,4,,3,3,3,2,,3,3,3,2
+Employee 647,Supervisor 57,Financial,Account 7,3,3,,3,3,3,2,,3,3,3,3
+Employee 566,Supervisor 57,Financial,Account 7,2,2,,2,2,3,2,,2,2,2,2
+Employee 526,Supervisor 72,Financial,Account 7,2,2,,3,3,2,3,,3,3,2,2
+Employee 483,Supervisor 57,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 587,Supervisor 64,Financial,Account 7,3,2,,2,2,3,2,,2,2,3,2
+Employee 588,Supervisor 66,Financial,Account 7,2,2,,3,2,2,2,,3,2,0,0
+Employee 548,Supervisor 64,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 539,Supervisor 73,Financial,Account 7,1,2,,1,2,1,2,,2,2,0,0
+Employee 670,Supervisor 65,Financial,Account 7,2,3,,3,2,2,2,,3,3,2,0
+Employee 593,Supervisor 74,Financial,Account 7,1,2,,2,1,1,1,,1,2,0,0
+Employee 522,Supervisor 75,Financial,Account 7,1,1,,1,1,1,2,,1,2,0,0
+Employee 517,Supervisor 64,Financial,Account 7,2,1,,2,2,1,1,,1,2,2,1
+Employee 624,Supervisor 55,Financial,Account 7,2,2,,1,1,2,2,,1,2,0,0
+Employee 560,Supervisor 56,Financial,Account 7,3,3,,3,3,3,4,,3,3,2,2
+Employee 642,Supervisor 56,Financial,Account 7,3,3,,3,4,4,3,,3,4,4,4
+Employee 625,Supervisor 56,Financial,Account 7,4,4,,4,4,4,4,,4,4,4,3
+Employee 570,Supervisor 76,Financial,Account 7,2,3,,2,2,2,2,,3,3,2,0
+Employee 627,Supervisor 74,Financial,Account 7,1,2,,1,2,1,1,,1,2,0,0
+Employee 481,Supervisor 57,Financial,Account 7,4,4,,3,4,3,3,,3,3,3,3
+Employee 530,Supervisor 55,Financial,Account 7,3,3,,3,3,3,2,,3,3,3,0
+Employee 555,Supervisor 74,Financial,Account 7,2,2,,2,2,2,2,,2,2,0,0
+Employee 632,Supervisor 75,Financial,Account 7,2,2,,1,2,2,1,,2,2,0,0
+Employee 476,Supervisor 77,Financial,Account 7,4,4,,3,4,3,3,,4,3,3,2
+Employee 663,Supervisor 55,Financial,Account 7,2,2,,2,2,2,2,,1,2,0,0
+Employee 662,Supervisor 55,Financial,Account 7,2,3,,3,3,3,2,,3,2,2,0
+Employee 619,Supervisor 63,Financial,Account 7,2,2,,2,3,2,2,,3,2,2,0
+Employee 528,Supervisor 71,Financial,Account 7,2,2,,2,2,2,1,,2,1,0,0
+Employee 513,Supervisor 55,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 504,Supervisor 69,Financial,Account 7,3,3,,3,3,3,2,,2,2,3,3
+Employee 553,Supervisor 55,Financial,Account 7,2,3,,3,2,2,2,,2,3,2,2
+Employee 631,Supervisor 60,Financial,Account 7,3,2,,3,2,2,2,,3,2,2,0
+Employee 569,Supervisor 59,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 500,Supervisor 55,Financial,Account 7,2,2,,2,2,2,3,,2,2,0,0
+Employee 585,Supervisor 55,Financial,Account 7,2,2,,2,2,2,2,,1,2,0,0
+Employee 525,Supervisor 57,Financial,Account 7,3,3,,3,3,2,2,,3,3,2,2
+Employee 508,Supervisor 78,Financial,Account 7,3,3,,3,2,2,4,,3,3,2,0
+Employee 532,Supervisor 57,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,0
+Employee 577,Supervisor 72,Financial,Account 7,4,3,,4,3,3,4,,4,4,3,3
+Employee 499,Supervisor 65,Financial,Account 7,1,2,,1,1,2,2,,3,2,0,0
+Employee 597,Supervisor 56,Financial,Account 7,4,3,,4,4,3,4,,4,4,3,3
+Employee 628,Supervisor 57,Financial,Account 7,2,3,,3,2,2,3,,2,3,2,0
+Employee 667,Supervisor 75,Financial,Account 7,1,2,,1,2,2,2,,1,2,0,0
+Employee 573,Supervisor 69,Financial,Account 7,3,3,,3,3,3,3,,3,3,3,2
+Employee 478,Supervisor 57,Financial,Account 7,3,3,,2,2,2,2,,2,2,3,0
+Employee 556,Supervisor 56,Financial,Account 7,2,2,,3,2,2,3,,3,3,2,2
+Employee 549,Supervisor 74,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 635,Supervisor 79,Financial,Account 7,3,4,,3,3,3,3,,3,3,3,2
+Employee 502,Supervisor 72,Financial,Account 7,1,2,,2,1,1,1,,1,1,0,0
+Employee 546,Supervisor 78,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,0
+Employee 623,Supervisor 79,Financial,Account 7,4,4,,4,4,4,4,,4,4,4,4
+Employee 579,Supervisor 65,Financial,Account 7,1,2,,3,2,2,2,,2,2,3,0
+Employee 645,Supervisor 56,Financial,Account 7,2,2,,2,2,2,2,,3,3,2,2
+Employee 672,Supervisor 68,Financial,Account 7,3,4,,4,4,3,3,,3,3,4,3
+Employee 594,Supervisor 62,Financial,Account 7,2,3,,2,3,2,2,,2,2,2,0
+Employee 653,Supervisor 71,Financial,Account 7,3,2,,2,2,2,2,,3,2,2,0
+Employee 511,Supervisor 65,Financial,Account 7,1,2,,1,2,1,1,,2,1,0,0
+Employee 671,Supervisor 69,Financial,Account 7,3,3,,3,3,3,3,,3,3,3,3
+Employee 607,Supervisor 57,Financial,Account 7,3,3,,3,2,2,2,,2,2,2,2
+Employee 534,Supervisor 67,Financial,Account 7,2,3,,2,3,3,2,,3,2,2,2
+Employee 563,Supervisor 56,Financial,Account 7,2,3,,3,2,2,2,,2,2,3,2
+Employee 564,Supervisor 54,Financial,Account 7,2,2,,2,3,2,2,,2,2,2,2
+Employee 516,Supervisor 61,Financial,Account 7,4,4,,4,4,4,4,,4,4,4,4
+Employee 634,Supervisor 64,Financial,Account 7,2,1,,2,1,1,2,,2,2,2,1
+Employee 618,Supervisor 80,Financial,Account 7,2,2,,2,3,2,2,,1,1,0,0
+Employee 611,Supervisor 56,Financial,Account 7,1,2,,2,2,1,2,,2,3,0,0
+Employee 603,Supervisor 65,Financial,Account 7,1,2,,2,2,1,1,,2,1,0,0
+Employee 571,Supervisor 56,Financial,Account 7,3,3,,3,4,3,3,,3,4,3,3
+Employee 521,Supervisor 66,Financial,Account 7,1,2,,1,2,1,1,,1,1,0,0
+Employee 559,Supervisor 80,Financial,Account 7,3,2,,2,2,2,3,,2,2,2,2
+Employee 665,Supervisor 66,Financial,Account 7,1,2,,1,1,1,1,,1,1,0,0
+Employee 654,Supervisor 72,Financial,Account 7,3,2,,3,3,2,3,,3,3,2,2
+Employee 557,Supervisor 64,Financial,Account 7,3,2,,2,3,3,2,,3,2,3,2
+Employee 617,Supervisor 63,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,0
+Employee 480,Supervisor 59,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 537,Supervisor 78,Financial,Account 7,3,4,,3,3,4,3,,3,3,3,3
+Employee 648,Supervisor 57,Financial,Account 7,2,2,,2,2,2,2,,1,2,0,0
+Employee 510,Supervisor 55,Financial,Account 7,4,2,,3,4,4,3,,3,3,2,2
+Employee 497,Supervisor 55,Financial,Account 7,2,2,,1,2,1,1,,1,1,0,0
+Employee 576,Supervisor 74,Financial,Account 7,2,3,,2,3,3,2,,2,3,0,0
+Employee 488,Supervisor 68,Financial,Account 7,3,4,,4,4,4,4,,4,4,4,3
+Employee 501,Supervisor 65,Financial,Account 7,2,3,,3,2,2,2,,3,2,3,0
+Employee 596,Supervisor 56,Financial,Account 7,3,3,,3,3,3,3,,3,4,3,3
+Employee 639,Supervisor 63,Financial,Account 7,3,3,,3,3,3,3,,3,3,2,0
+Employee 641,Supervisor 72,Financial,Account 7,3,3,,3,3,3,3,,3,3,3,3
+Employee 638,Supervisor 65,Financial,Account 7,2,3,,3,3,2,2,,3,2,2,0
+Employee 610,Supervisor 61,Financial,Account 7,4,4,,4,4,4,4,,4,4,4,4
+Employee 477,Supervisor 72,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 485,Supervisor 77,Financial,Account 7,1,2,,1,2,1,1,,1,1,0,0
+Employee 479,Supervisor 56,Financial,Account 7,2,2,,3,2,2,3,,3,3,2,2
+Employee 626,Supervisor 79,Financial,Account 7,3,3,,4,3,4,3,,3,3,2,3
+Employee 651,Supervisor 63,Financial,Account 7,2,2,,2,2,1,2,,2,2,0,0
+Employee 514,Supervisor 55,Financial,Account 7,2,2,,2,2,2,2,,1,2,3,2
+Employee 551,Supervisor 57,Financial,Account 7,4,3,,4,3,3,4,,3,4,3,3
+Employee 558,Supervisor 74,Financial,Account 7,0,0,,0,0,0,0,,0,0,0,0
+Employee 487,Supervisor 75,Financial,Account 7,1,2,,1,1,1,1,,1,1,0,0
+Employee 615,Supervisor 77,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 582,Supervisor 56,Financial,Account 7,4,4,,4,4,4,4,,4,4,4,4
+Employee 584,Supervisor 57,Financial,Account 7,2,3,,3,3,2,2,,2,2,2,2
+Employee 650,Supervisor 73,Financial,Account 7,3,2,,3,2,2,2,,2,2,0,0
+Employee 489,Supervisor 59,Financial,Account 7,3,2,,2,3,3,2,,1,2,2,2
+Employee 498,Supervisor 55,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 599,Supervisor 57,Financial,Account 7,2,2,,2,2,1,2,,2,2,0,0
+Employee 595,Supervisor 79,Financial,Account 7,3,4,,4,4,4,4,,4,4,4,4
+Employee 636,Supervisor 78,Financial,Account 7,2,2,,2,3,2,2,,3,3,2,2
+Employee 602,Supervisor 57,Financial,Account 7,2,2,,2,2,2,2,,2,2,0,0
+Employee 601,Supervisor 56,Financial,Account 7,1,2,,1,2,1,1,,2,1,0,0
+Employee 562,Supervisor 55,Financial,Account 7,2,3,,3,3,3,2,,2,2,2,0
+Employee 658,Supervisor 65,Financial,Account 7,2,3,,3,2,2,2,,2,2,3,0
+Employee 490,Supervisor 79,Financial,Account 7,3,3,,3,3,3,3,,3,3,2,2
+Employee 535,Supervisor 65,Financial,Account 7,1,2,,1,2,1,1,,2,1,0,0
+Employee 643,Supervisor 65,Financial,Account 7,2,3,,3,2,3,3,,3,2,3,0
+Employee 568,Supervisor 67,Financial,Account 7,1,1,,1,1,2,1,,2,1,0,0
+Employee 538,Supervisor 55,Financial,Account 7,2,3,,2,3,3,2,,3,2,2,2
+Employee 669,Supervisor 79,Financial,Account 7,4,4,,4,4,4,4,,4,4,4,4
+Employee 507,Supervisor 72,Financial,Account 7,2,2,,3,3,3,2,,3,3,2,2
+Employee 590,Supervisor 79,Financial,Account 7,3,3,,4,4,4,4,,4,4,3,4
+Employee 561,Supervisor 80,Financial,Account 7,2,3,,2,2,2,2,,2,2,2,0
+Employee 543,Supervisor 79,Financial,Account 7,3,3,,3,3,3,3,,3,3,2,2
+Employee 515,Supervisor 78,Financial,Account 7,3,3,,3,3,2,3,,3,3,3,2
+Employee 612,Supervisor 56,Financial,Account 7,1,2,,1,2,1,1,,1,1,0,0
+Employee 567,Supervisor 81,Financial,Account 7,3,3,,2,2,3,2,,2,3,2,2
+Employee 531,Supervisor 55,Financial,Account 7,2,2,,2,1,2,1,,2,2,0,0
+Employee 552,Supervisor 71,Financial,Account 7,1,2,,1,1,1,1,,1,1,0,0
+Employee 652,Supervisor 70,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,0
+Employee 630,Supervisor 80,Financial,Account 7,3,3,,3,3,3,2,,3,3,3,2
+Employee 589,Supervisor 73,Financial,Account 7,2,3,,3,3,3,2,,3,2,0,0
+Employee 524,Supervisor 70,Financial,Account 7,1,1,,1,1,1,1,,1,1,0,0
+Employee 482,Supervisor 54,Financial,Account 7,3,3,,3,4,3,4,,4,4,3,2
+Employee 633,Supervisor 57,Financial,Account 7,1,2,,2,2,1,2,,1,2,0,0
+Employee 540,Supervisor 64,Financial,Account 7,3,2,,2,2,2,2,,3,2,2,2
+Employee 664,Supervisor 60,Financial,Account 7,2,2,,2,3,3,2,,2,2,0,0
+Employee 659,Supervisor 75,Financial,Account 7,1,2,,1,2,2,2,,1,1,0,0
+Employee 657,Supervisor 55,Financial,Account 7,2,2,,2,2,2,2,,2,2,0,0
+Employee 505,Supervisor 62,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,0
+Employee 580,Supervisor 77,Financial,Account 7,3,2,,2,3,3,3,,2,2,3,2
+Employee 640,Supervisor 72,Financial,Account 7,1,2,,2,2,1,2,,1,1,0,0
+Employee 644,Supervisor 76,Financial,Account 7,2,2,,2,2,2,2,,2,2,0,0
+Employee 606,Supervisor 63,Financial,Account 7,2,2,,2,2,2,2,,2,2,0,0
+Employee 565,Supervisor 56,Financial,Account 7,3,3,,3,4,3,3,,3,3,3,2
+Employee 520,Supervisor 59,Financial,Account 7,2,2,,2,2,2,2,,1,1,0,0
+Employee 598,Supervisor 55,Financial,Account 7,2,2,,3,4,3,3,,3,3,2,2
+Employee 519,Supervisor 70,Financial,Account 7,1,2,,1,1,1,1,,1,1,0,0
+Employee 495,Supervisor 60,Financial,Account 7,2,3,,2,2,2,2,,2,2,2,2
+Employee 609,Supervisor 64,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 544,Supervisor 55,Financial,Account 7,2,2,,2,1,2,2,,3,3,0,0
+Employee 629,Supervisor 54,Financial,Account 7,3,3,,3,3,3,3,,3,3,0,0
+Employee 614,Supervisor 56,Financial,Account 7,2,2,,2,2,2,2,,2,2,2,2
+Employee 622,Supervisor 60,Financial,Account 7,3,3,,2,2,2,2,,2,2,0,0
+Employee 660,Supervisor 67,Financial,Account 7,2,3,,3,2,3,2,,3,3,2,2
+Employee 484,Supervisor 66,Financial,Account 7,2,2,,3,2,3,2,,3,2,0,0
+Employee 512,Supervisor 69,Financial,Account 7,3,3,,3,3,3,3,,3,3,2,2
+Employee 613,Supervisor 57,Financial,Account 7,3,2,,3,2,3,2,,3,2,2,0
+Employee 142,,,#N/A,3,4,,3,3,3,3,,3,3,3,3
+Employee 159,,,#N/A,2,3,,3,3,3,3,,3,3,3,3
+Employee 245,,,#N/A,3,4,,4,3,3,3,,3,3,3,3
+Employee 322,,,#N/A,2,3,,3,3,3,3,,3,3,3,3
+Employee 1,,,#N/A,2,2,,3,3,3,3,,3,3,3,3
+Employee 193,,,#N/A,2,2,,3,3,3,3,,3,3,3,3

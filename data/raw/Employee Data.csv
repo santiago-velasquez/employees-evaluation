@@ -1,0 +1,673 @@
+#,Employee ID,Employee Status,Hire Date,Job Grade,Company,Level
+1,Employee 1,Regular,9/1/2006,4,Makati,Leader
+2,Employee 2,Regular,5/19/2008,2,Makati,Team Member
+3,Employee 3,Regular,7/20/2009,3,Makati,Leader
+4,Employee 4,Regular,9/19/2012,2,Makati,Team Member
+5,Employee 5,Regular,10/17/2013,2,Makati,Team Member
+6,Employee 6,Regular,4/16/2013,3,Makati,Leader
+7,Employee 7,Regular,1/7/2013,3,Makati,Leader
+8,Employee 8,Regular,12/2/2013,3,Makati,Leader
+9,Employee 9,Regular,8/26/2014,2,Makati,Team Member
+10,Employee 10,Regular,9/22/2014,2,Makati,Team Member
+11,Employee 11,Regular,11/7/2014,2,Makati,Team Member
+12,Employee 12,Regular,3/26/2014,3,Makati,Leader
+13,Employee 13,Regular,3/10/2014,2,Makati,Team Member
+14,Employee 14,Regular,3/3/2014,2,Makati,Team Member
+15,Employee 15,Regular,11/3/2014,2,Makati,Team Member
+16,Employee 16,Regular,5/26/2015,2,Makati,Team Member
+17,Employee 17,Regular,10/27/2015,3,Makati,Leader
+18,Employee 18,Regular,5/18/2015,2,Makati,Team Member
+19,Employee 19,Regular,5/11/2015,2,Makati,Team Member
+20,Employee 20,Regular,1/19/2015,2,Makati,Team Member
+21,Employee 21,Regular,3/3/2015,2,Makati,Team Member
+22,Employee 22,Regular,6/27/2016,2,Makati,Team Member
+23,Employee 23,Regular,6/6/2016,2,Makati,Team Member
+24,Employee 24,Regular,12/19/2016,2,Makati,Team Member
+25,Employee 25,Regular,9/26/2016,2,Makati,Team Member
+26,Employee 26,Regular,4/11/2016,2,Makati,Team Member
+27,Employee 27,Regular,5/16/2016,2,Makati,Team Member
+28,Employee 28,Regular,6/7/2016,2,Makati,Team Member
+29,Employee 29,Regular,9/19/2016,3,Makati,Leader
+30,Employee 30,Regular,8/3/2017,2,Makati,Team Member
+31,Employee 31,Regular,9/13/2017,2,Makati,Team Member
+32,Employee 32,Regular,3/7/2017,2,Makati,Team Member
+33,Employee 33,Regular,4/3/2017,2,Makati,Team Member
+34,Employee 34,Regular,10/9/2017,2,Makati,Team Member
+35,Employee 35,Regular,3/7/2017,2,Makati,Team Member
+36,Employee 36,Regular,4/3/2017,2,Makati,Team Member
+37,Employee 37,Regular,1/26/2018,2,Makati,Team Member
+38,Employee 38,Regular,6/19/2017,2,Makati,Team Member
+39,Employee 39,Regular,5/17/2017,2,Makati,Team Member
+40,Employee 40,Regular,6/20/2017,2,Makati,Team Member
+41,Employee 41,Regular,10/19/2017,2,Makati,Team Member
+42,Employee 42,Regular,3/7/2017,3,Makati,Leader
+43,Employee 43,Regular,6/19/2017,2,Makati,Team Member
+44,Employee 44,Regular,10/9/2017,2,Makati,Team Member
+45,Employee 45,Regular,7/24/2017,2,Makati,Team Member
+46,Employee 46,Regular,4/19/2017,4,Makati,Leader
+47,Employee 47,Regular,1/15/2018,2,Makati,Team Member
+48,Employee 48,Regular,10/15/2018,2,Makati,Team Member
+49,Employee 49,Regular,3/26/2018,2,Makati,Team Member
+50,Employee 50,Regular,9/24/2018,2,Makati,Team Member
+51,Employee 51,Regular,10/15/2018,2,Makati,Team Member
+52,Employee 52,Regular,10/15/2018,2,Makati,Team Member
+53,Employee 53,Regular,8/1/2018,2,Makati,Team Member
+54,Employee 54,Regular,10/22/2018,2,Makati,Team Member
+55,Employee 55,Regular,3/26/2018,2,Makati,Team Member
+56,Employee 56,Regular,11/19/2018,2,Makati,Team Member
+57,Employee 57,Regular,6/6/2018,2,Makati,Team Member
+58,Employee 58,Regular,12/3/2018,2,Makati,Team Member
+59,Employee 59,Regular,10/15/2018,3,Makati,Leader
+60,Employee 60,Regular,1/1/2018,5,Makati,Leader
+61,Employee 61,Regular,5/11/2018,2,Makati,Team Member
+62,Employee 62,Regular,8/15/2018,2,Makati,Team Member
+63,Employee 63,Regular,11/19/2018,2,Makati,Team Member
+64,Employee 64,Regular,10/15/2018,3,Makati,Leader
+65,Employee 65,Regular,4/30/2018,3,Makati,Leader
+66,Employee 66,Regular,8/6/2018,2,Makati,Team Member
+67,Employee 67,Regular,4/13/2018,2,Makati,Team Member
+68,Employee 68,Regular,10/15/2018,2,Makati,Team Member
+69,Employee 69,Regular,9/2/2019,2,Makati,Team Member
+70,Employee 70,Regular,6/10/2019,2,Makati,Team Member
+71,Employee 71,Regular,4/1/2019,2,Makati,Team Member
+72,Employee 72,Regular,8/26/2019,2,Makati,Team Member
+73,Employee 73,Regular,1/21/2019,2,Makati,Team Member
+74,Employee 74,Regular,8/19/2019,2,Makati,Team Member
+75,Employee 75,Regular,2/1/2019,2,Makati,Team Member
+76,Employee 76,Regular,11/25/2019,2,Makati,Team Member
+77,Employee 77,Regular,2/1/2019,2,Makati,Team Member
+78,Employee 78,Regular,7/8/2019,2,Makati,Team Member
+79,Employee 79,Regular,7/15/2019,2,Makati,Team Member
+80,Employee 80,Regular,4/16/2019,2,Makati,Team Member
+81,Employee 81,Regular,10/21/2019,2,Makati,Team Member
+82,Employee 82,Regular,9/9/2019,2,Makati,Team Member
+83,Employee 83,Regular,12/9/2019,2,Makati,Team Member
+84,Employee 84,Regular,10/14/2019,2,Makati,Team Member
+85,Employee 85,Regular,7/29/2019,2,Makati,Team Member
+86,Employee 86,Regular,7/29/2019,2,Makati,Team Member
+87,Employee 87,Regular,7/29/2019,2,Makati,Team Member
+88,Employee 88,Regular,7/1/2019,2,Makati,Team Member
+89,Employee 89,Regular,11/18/2019,2,Makati,Team Member
+90,Employee 90,Regular,7/1/2019,2,Makati,Team Member
+91,Employee 91,Regular,7/1/2019,2,Makati,Team Member
+92,Employee 92,Regular,7/15/2019,2,Makati,Team Member
+93,Employee 93,Regular,12/9/2019,2,Makati,Team Member
+94,Employee 94,Regular,7/8/2019,2,Makati,Team Member
+95,Employee 95,Regular,4/22/2019,2,Makati,Team Member
+96,Employee 96,Regular,10/14/2019,2,Makati,Team Member
+97,Employee 97,Regular,2/11/2019,2,Makati,Team Member
+98,Employee 98,Regular,11/18/2019,2,Makati,Team Member
+99,Employee 99,Regular,8/13/2019,2,Makati,Team Member
+100,Employee 100,Probationary,9/20/2019,2,Makati,Team Member
+101,Employee 101,Regular,6/17/2019,2,Makati,Team Member
+102,Employee 102,Regular,10/21/2019,2,Makati,Team Member
+103,Employee 103,Regular,11/4/2019,2,Makati,Team Member
+104,Employee 104,Regular,12/30/2019,2,Makati,Team Member
+105,Employee 105,Regular,4/8/2019,2,Makati,Team Member
+106,Employee 106,Regular,10/15/2019,3,Makati,Leader
+107,Employee 107,Probationary,10/21/2019,2,Makati,Team Member
+108,Employee 108,Regular,6/17/2019,2,Makati,Team Member
+109,Employee 109,Regular,7/1/2019,2,Makati,Team Member
+110,Employee 110,Regular,2/11/2019,2,Makati,Team Member
+111,Employee 111,Regular,6/3/2019,3,Makati,Leader
+112,Employee 112,Regular,7/15/2019,2,Makati,Team Member
+113,Employee 113,Regular,9/9/2019,2,Makati,Team Member
+114,Employee 114,Regular,8/19/2019,2,Makati,Team Member
+115,Employee 115,Regular,3/18/2019,2,Makati,Team Member
+116,Employee 116,Regular,5/6/2019,2,Makati,Team Member
+117,Employee 117,Regular,12/30/2019,2,Makati,Team Member
+118,Employee 118,Probationary,9/23/2019,2,Makati,Team Member
+119,Employee 119,Regular,2/11/2019,2,Makati,Team Member
+120,Employee 120,Regular,2/1/2019,2,Makati,Team Member
+121,Employee 121,Regular,1/7/2020,2,Makati,Team Member
+122,Employee 122,Probationary,1/13/2020,2,Makati,Team Member
+123,Employee 123,Probationary,1/15/2020,2,Makati,Team Member
+124,Employee 124,Regular,11/28/2006,5,Makati,Leader
+125,Employee 125,Regular,8/15/2006,4,Makati,Leader
+126,Employee 126,Regular,5/28/2007,3,Makati,Leader
+127,Employee 127,Regular,9/10/2007,2,Makati,Team Member
+128,Employee 128,Regular,7/2/2007,2,Makati,Team Member
+129,Employee 129,Regular,1/3/2007,1,Makati,Team Member
+130,Employee 130,Regular,10/15/2007,2,Makati,Team Member
+131,Employee 131,Regular,11/19/2007,2,Makati,Team Member
+132,Employee 132,Regular,9/4/2007,2,Makati,Team Member
+133,Employee 133,Regular,4/1/2008,3,Makati,Leader
+134,Employee 134,Regular,1/16/2009,2,Makati,Team Member
+135,Employee 135,Regular,1/16/2009,3,Makati,Leader
+136,Employee 136,Regular,2/17/2009,5,Makati,Leader
+137,Employee 137,Regular,5/10/2010,2,Makati,Team Member
+138,Employee 138,Regular,9/1/2010,2,Makati,Team Member
+139,Employee 139,Regular,11/29/2010,2,Makati,Team Member
+140,Employee 140,Regular,9/1/2010,3,Makati,Leader
+141,Employee 141,Regular,5/2/2011,2,Makati,Team Member
+142,Employee 142,Regular,6/1/2011,4,Makati,Leader
+143,Employee 143,Regular,12/14/2011,2,Makati,Team Member
+144,Employee 144,Regular,9/1/2011,2,Makati,Team Member
+145,Employee 145,Regular,7/15/2011,2,Makati,Team Member
+146,Employee 146,Regular,10/24/2011,3,Makati,Leader
+147,Employee 147,Regular,10/29/2012,3,Makati,Leader
+148,Employee 148,Regular,4/10/2012,2,Makati,Team Member
+149,Employee 149,Regular,5/21/2012,3,Makati,Leader
+150,Employee 150,Regular,9/11/2012,2,Makati,Team Member
+151,Employee 151,Regular,10/4/2012,2,Makati,Team Member
+152,Employee 152,Regular,10/1/2012,2,Makati,Team Member
+153,Employee 153,Regular,6/4/2012,2,Makati,Team Member
+154,Employee 154,Regular,5/2/2012,2,Makati,Team Member
+155,Employee 155,Regular,6/1/2012,3,Makati,Leader
+156,Employee 156,Regular,2/12/2013,2,Makati,Team Member
+157,Employee 157,Regular,4/22/2013,2,Makati,Team Member
+158,Employee 158,Regular,6/24/2013,3,Makati,Leader
+159,Employee 159,Regular,12/9/2013,4,Makati,Leader
+160,Employee 160,Regular,10/21/2013,3,Makati,Leader
+161,Employee 161,Regular,10/1/2013,2,Makati,Team Member
+162,Employee 162,Regular,5/13/2013,4,Makati,Leader
+163,Employee 163,Regular,10/7/2013,3,Makati,Leader
+164,Employee 164,Regular,10/8/2013,2,Makati,Team Member
+165,Employee 165,Regular,3/4/2014,2,Makati,Team Member
+166,Employee 166,Regular,6/18/2014,2,Makati,Team Member
+167,Employee 167,Regular,2/3/2014,2,Makati,Team Member
+168,Employee 168,Regular,2/10/2014,3,Makati,Leader
+169,Employee 169,Regular,11/24/2014,2,Makati,Team Member
+170,Employee 170,Regular,2/22/2014,3,Makati,Leader
+171,Employee 171,Regular,8/12/2014,2,Makati,Team Member
+172,Employee 172,Regular,1/20/2014,2,Makati,Team Member
+173,Employee 173,Regular,3/17/2014,2,Makati,Team Member
+174,Employee 174,Regular,7/28/2014,3,Makati,Leader
+175,Employee 175,Regular,12/22/2014,2,Makati,Team Member
+176,Employee 176,Regular,3/31/2014,2,Makati,Team Member
+177,Employee 177,Regular,11/3/2015,2,Makati,Team Member
+178,Employee 178,Regular,2/1/2015,2,Makati,Team Member
+179,Employee 179,Regular,7/13/2015,2,Makati,Team Member
+180,Employee 180,Regular,3/12/2015,2,Makati,Team Member
+181,Employee 181,Regular,4/14/2015,2,Makati,Team Member
+182,Employee 182,Regular,11/2/2015,2,Makati,Team Member
+183,Employee 183,Regular,7/6/2015,2,Makati,Team Member
+184,Employee 184,Regular,11/4/2015,2,Makati,Team Member
+185,Employee 185,Regular,3/9/2015,2,Makati,Team Member
+186,Employee 186,Regular,2/24/2015,2,Makati,Team Member
+187,Employee 187,Regular,3/23/2015,2,Makati,Team Member
+188,Employee 188,Regular,2/9/2015,3,Makati,Leader
+189,Employee 189,Regular,4/16/2015,2,Makati,Team Member
+190,Employee 190,Regular,9/28/2015,2,Makati,Team Member
+191,Employee 191,Regular,12/12/2016,2,Makati,Team Member
+192,Employee 192,Regular,7/25/2016,2,Makati,Team Member
+193,Employee 193,Regular,11/15/2016,4,Makati,Leader
+194,Employee 194,Regular,9/12/2016,3,Makati,Leader
+195,Employee 195,Regular,8/4/2016,2,Makati,Team Member
+196,Employee 196,Regular,3/2/2016,2,Makati,Team Member
+197,Employee 197,Regular,5/10/2016,4,Makati,Leader
+198,Employee 198,Regular,12/7/2016,2,Makati,Team Member
+199,Employee 199,Regular,5/11/2016,2,Makati,Team Member
+200,Employee 200,Regular,10/10/2016,2,Makati,Team Member
+201,Employee 201,Regular,4/11/2016,2,Makati,Team Member
+202,Employee 202,Regular,3/10/2017,2,Makati,Team Member
+203,Employee 203,Regular,5/31/2017,2,Makati,Team Member
+204,Employee 204,Regular,12/11/2017,2,Makati,Team Member
+205,Employee 205,Regular,9/25/2017,2,Makati,Team Member
+206,Employee 206,Regular,4/24/2017,2,Makati,Team Member
+207,Employee 207,Regular,10/2/2017,2,Makati,Team Member
+208,Employee 208,Regular,12/6/2017,2,Makati,Team Member
+209,Employee 209,Regular,4/3/2017,2,Makati,Team Member
+210,Employee 210,Regular,5/2/2017,2,Makati,Team Member
+211,Employee 211,Regular,8/22/2017,2,Makati,Team Member
+212,Employee 212,Regular,3/13/2017,2,Makati,Team Member
+213,Employee 213,Regular,4/10/2017,2,Makati,Team Member
+214,Employee 214,Regular,12/4/2017,2,Makati,Team Member
+215,Employee 215,Regular,1/11/2017,2,Makati,Team Member
+216,Employee 216,Regular,6/20/2017,3,Makati,Leader
+217,Employee 217,Regular,9/4/2017,2,Makati,Team Member
+218,Employee 218,Regular,10/23/2017,2,Makati,Team Member
+219,Employee 219,Regular,3/27/2017,2,Makati,Team Member
+220,Employee 220,Regular,11/6/2017,2,Makati,Team Member
+221,Employee 221,Regular,3/13/2017,2,Makati,Team Member
+222,Employee 222,Regular,12/12/2017,2,Makati,Team Member
+223,Employee 223,Regular,9/1/2017,4,Makati,Leader
+224,Employee 224,Regular,1/27/2017,2,Makati,Team Member
+225,Employee 225,Regular,4/19/2017,2,Makati,Team Member
+226,Employee 226,Regular,10/20/2017,2,Makati,Team Member
+227,Employee 227,Regular,7/11/2017,2,Makati,Team Member
+228,Employee 228,Regular,8/21/2017,2,Makati,Team Member
+229,Employee 229,Regular,6/25/2018,3,Makati,Leader
+230,Employee 230,Regular,2/5/2018,2,Makati,Team Member
+231,Employee 231,Regular,8/13/2018,2,Makati,Team Member
+232,Employee 232,Regular,10/22/2018,2,Makati,Team Member
+233,Employee 233,Regular,10/8/2018,3,Makati,Leader
+234,Employee 234,Probationary,12/3/2018,2,Makati,Team Member
+235,Employee 235,Regular,7/30/2018,2,Makati,Team Member
+236,Employee 236,Regular,12/17/2018,2,Makati,Team Member
+237,Employee 237,Regular,7/30/2018,2,Makati,Team Member
+238,Employee 238,Regular,6/11/2018,2,Makati,Team Member
+239,Employee 239,Regular,3/12/2018,2,Makati,Team Member
+240,Employee 240,Regular,8/13/2018,2,Makati,Team Member
+241,Employee 241,Regular,8/13/2018,2,Makati,Team Member
+242,Employee 242,Regular,8/6/2018,2,Makati,Team Member
+243,Employee 243,Regular,4/6/2018,2,Makati,Team Member
+244,Employee 244,Regular,3/27/2018,2,Makati,Team Member
+245,Employee 245,Regular,4/30/2018,4,Makati,Leader
+246,Employee 246,Regular,11/1/2018,2,Makati,Team Member
+247,Employee 247,Regular,3/12/2018,2,Makati,Team Member
+248,Employee 248,Regular,8/6/2018,2,Makati,Team Member
+249,Employee 249,Regular,10/9/2018,2,Makati,Team Member
+250,Employee 250,Regular,1/30/2018,2,Makati,Team Member
+251,Employee 251,Regular,9/24/2018,2,Makati,Team Member
+252,Employee 252,Regular,9/20/2018,2,Makati,Team Member
+253,Employee 253,Regular,4/2/2018,2,Makati,Team Member
+254,Employee 254,Regular,9/27/2018,2,Makati,Team Member
+255,Employee 255,Regular,9/7/2018,2,Makati,Team Member
+256,Employee 256,Regular,12/19/2018,2,Makati,Team Member
+257,Employee 257,Regular,10/24/2018,2,Makati,Team Member
+258,Employee 258,Regular,10/26/2018,2,Makati,Team Member
+259,Employee 259,Regular,9/24/2018,2,Makati,Team Member
+260,Employee 260,Regular,10/15/2018,2,Makati,Team Member
+261,Employee 261,Regular,4/23/2018,2,Makati,Team Member
+262,Employee 262,Regular,12/10/2018,3,Makati,Leader
+263,Employee 263,Regular,12/3/2018,2,Makati,Team Member
+264,Employee 264,Regular,2/5/2018,2,Makati,Team Member
+265,Employee 265,Regular,12/3/2018,2,Makati,Team Member
+266,Employee 266,Regular,1/3/2018,2,Makati,Team Member
+267,Employee 267,Regular,1/22/2018,2,Makati,Team Member
+268,Employee 268,Regular,2/16/2018,2,Makati,Team Member
+269,Employee 269,Regular,11/5/2018,2,Makati,Team Member
+270,Employee 270,Regular,6/4/2018,2,Makati,Team Member
+271,Employee 271,Regular,2/6/2018,2,Makati,Team Member
+272,Employee 272,Regular,2/19/2018,2,Makati,Team Member
+273,Employee 273,Regular,3/30/2018,2,Makati,Team Member
+274,Employee 274,Regular,9/7/2018,2,Makati,Team Member
+275,Employee 275,Regular,12/17/2018,2,Makati,Team Member
+276,Employee 276,Regular,3/12/2018,2,Makati,Team Member
+277,Employee 277,Regular,10/1/2018,2,Makati,Team Member
+278,Employee 278,Regular,2/19/2018,2,Makati,Team Member
+279,Employee 279,Regular,7/23/2018,2,Makati,Team Member
+280,Employee 280,Regular,6/3/2019,2,Makati,Team Member
+281,Employee 281,Regular,2/14/2019,2,Makati,Team Member
+282,Employee 282,Regular,7/22/2019,2,Makati,Team Member
+283,Employee 283,Regular,12/3/2019,3,Makati,Leader
+284,Employee 284,Regular,6/10/2019,2,Makati,Team Member
+285,Employee 285,Regular,7/22/2019,2,Makati,Team Member
+286,Employee 286,Regular,3/4/2019,2,Makati,Team Member
+287,Employee 287,Regular,12/9/2019,2,Makati,Team Member
+288,Employee 288,Regular,7/1/2019,2,Makati,Team Member
+289,Employee 289,Regular,7/22/2019,2,Makati,Team Member
+290,Employee 290,Regular,10/21/2019,2,Makati,Team Member
+291,Employee 291,Regular,10/9/2019,2,Makati,Team Member
+292,Employee 292,Regular,7/19/2019,2,Makati,Team Member
+293,Employee 293,Regular,9/23/2019,2,Makati,Team Member
+294,Employee 294,Regular,2/18/2019,2,Makati,Team Member
+295,Employee 295,Regular,5/6/2019,2,Makati,Team Member
+296,Employee 296,Regular,6/10/2019,2,Makati,Team Member
+297,Employee 297,Regular,11/11/2019,2,Makati,Team Member
+298,Employee 298,Probationary,9/23/2019,2,Makati,Team Member
+299,Employee 299,Regular,7/22/2019,2,Makati,Team Member
+300,Employee 300,Regular,8/19/2019,2,Makati,Team Member
+301,Employee 301,Regular,7/22/2019,2,Makati,Team Member
+302,Employee 302,Regular,1/7/2019,2,Makati,Team Member
+303,Employee 303,Probationary,8/5/2019,2,Makati,Team Member
+304,Employee 304,Regular,9/2/2019,2,Makati,Team Member
+305,Employee 305,Regular,7/29/2019,2,Makati,Team Member
+306,Employee 306,Regular,6/10/2019,2,Makati,Team Member
+307,Employee 307,Regular,10/21/2019,2,Makati,Team Member
+308,Employee 308,Regular,12/9/2019,2,Makati,Team Member
+309,Employee 309,Regular,10/21/2019,2,Makati,Team Member
+310,Employee 310,Regular,4/22/2019,2,Makati,Team Member
+311,Employee 311,Regular,9/30/2019,2,Makati,Team Member
+312,Employee 312,Regular,4/8/2019,2,Makati,Team Member
+313,Employee 313,Regular,9/16/2019,2,Makati,Team Member
+314,Employee 314,Regular,9/9/2019,2,Makati,Team Member
+315,Employee 315,Regular,9/23/2019,2,Makati,Team Member
+316,Employee 316,Regular,4/29/2019,2,Makati,Team Member
+317,Employee 317,Regular,9/23/2019,3,Makati,Leader
+318,Employee 318,Regular,4/22/2019,2,Makati,Team Member
+319,Employee 319,Regular,11/14/2019,2,Makati,Team Member
+320,Employee 320,Regular,10/7/2019,2,Makati,Team Member
+321,Employee 321,Regular,3/18/2019,2,Makati,Team Member
+322,Employee 322,Regular,11/11/2019,4,Makati,Leader
+323,Employee 323,Regular,6/24/2019,2,Makati,Team Member
+324,Employee 324,Regular,7/15/2019,2,Makati,Team Member
+325,Employee 325,Regular,7/19/2019,3,Makati,Leader
+326,Employee 326,Regular,8/19/2019,2,Makati,Team Member
+327,Employee 327,Regular,6/10/2019,2,Makati,Team Member
+328,Employee 328,Probationary,8/5/2019,2,Makati,Team Member
+329,Employee 329,Regular,10/7/2019,2,Makati,Team Member
+330,Employee 330,Regular,8/27/2019,2,Makati,Team Member
+331,Employee 331,Probationary,8/13/2019,2,Makati,Team Member
+332,Employee 332,Regular,9/2/2019,2,Makati,Team Member
+333,Employee 333,Regular,3/1/2019,5,Makati,Leader
+334,Employee 334,Regular,9/2/2019,2,Makati,Team Member
+335,Employee 335,Regular,4/8/2019,2,Makati,Team Member
+336,Employee 336,Regular,8/16/2019,2,Makati,Team Member
+337,Employee 337,Probationary,8/5/2019,2,Makati,Team Member
+338,Employee 338,Regular,9/30/2019,2,Makati,Team Member
+339,Employee 339,Regular,9/23/2019,2,Makati,Team Member
+340,Employee 340,Regular,9/23/2019,2,Makati,Team Member
+341,Employee 341,Regular,9/9/2019,2,Makati,Team Member
+342,Employee 342,Regular,7/22/2019,2,Makati,Team Member
+343,Employee 343,Regular,12/2/2019,3,Makati,Leader
+344,Employee 344,Regular,12/23/2019,2,Makati,Team Member
+345,Employee 345,Regular,7/22/2019,2,Makati,Team Member
+346,Employee 346,Regular,9/30/2019,2,Makati,Team Member
+347,Employee 347,Regular,4/1/2019,2,Makati,Team Member
+348,Employee 348,Regular,7/15/2019,2,Makati,Team Member
+349,Employee 349,Regular,9/23/2019,2,Makati,Team Member
+350,Employee 350,Probationary,9/30/2019,2,Makati,Team Member
+351,Employee 351,Regular,1/1/2020,2,Makati,Team Member
+352,Employee 352,Regular,6/27/2016,3,Makati,Leader
+353,Employee 353,Regular,5/2/2016,2,Makati,Team Member
+354,Employee 354,Regular,9/24/2018,2,Makati,Team Member
+355,Employee 355,Regular,3/19/2018,3,Makati,Leader
+356,Employee 356,Regular,8/27/2019,2,Makati,Team Member
+357,Employee 357,Regular,3/18/2019,2,Makati,Team Member
+358,Employee 358,Regular,8/19/2019,4,Makati,Leader
+359,Employee 359,Regular,1/2/2020,2,Makati,Team Member
+360,Employee 360,Regular,1/27/2020,2,Makati,Team Member
+361,Employee 361,Probationary,2/3/2020,2,Makati,Team Member
+362,Employee 362,Probationary,2/17/2020,2,Makati,Team Member
+363,Employee 363,Regular,2/17/2020,2,Makati,Team Member
+364,Employee 364,Probationary,2/3/2020,2,Makati,Team Member
+365,Employee 365,Probationary,1/27/2020,2,Makati,Team Member
+366,Employee 366,Probationary,2/17/2020,2,Makati,Team Member
+367,Employee 367,Probationary,2/17/2020,2,Makati,Team Member
+368,Employee 368,Regular,2/11/2020,2,Makati,Team Member
+369,Employee 369,Probationary,2/3/2020,2,Makati,Team Member
+370,Employee 370,Probationary,2/17/2020,2,Makati,Team Member
+371,Employee 371,Regular,1/27/2020,3,Makati,Leader
+372,Employee 372,Regular,2/3/2020,2,Makati,Team Member
+373,Employee 373,Regular,2/24/2020,2,Makati,Team Member
+374,Employee 374,Regular,1/27/2020,2,Makati,Team Member
+375,Employee 375,Regular,2/10/2020,2,Makati,Team Member
+376,Employee 376,Probationary,2/3/2020,2,Makati,Team Member
+377,Employee 377,Probationary,2/3/2020,2,Makati,Team Member
+378,Employee 378,Regular,3/9/2020,2,Makati,Team Member
+379,Employee 379,Regular,3/2/2020,2,Makati,Team Member
+380,Employee 380,Probationary,3/2/2020,2,Makati,Team Member
+381,Employee 381,Regular,3/2/2020,2,Makati,Team Member
+382,Employee 382,Regular,3/5/2020,3,Makati,Leader
+383,Employee 383,Regular,3/9/2020,2,Makati,Team Member
+384,Employee 384,Regular,3/2/2020,2,Makati,Team Member
+385,Employee 385,Regular,3/2/2020,3,Makati,Leader
+386,Employee 386,Regular,3/9/2020,2,Makati,Team Member
+387,Employee 387,Probationary,3/2/2020,2,Makati,Team Member
+388,Employee 388,Probationary,2/17/2020,2,Makati,Team Member
+389,Employee 389,Regular,4/2/2020,2,Makati,Team Member
+390,Employee 390,Regular,4/6/2020,2,Makati,Team Member
+391,Employee 391,Regular,4/6/2020,2,Makati,Team Member
+392,Employee 392,Probationary,4/22/2020,2,Makati,Team Member
+393,Employee 393,Probationary,4/20/2020,2,Makati,Team Member
+394,Employee 394,Probationary,4/20/2020,2,Makati,Team Member
+395,Employee 395,Probationary,5/25/2020,2,Makati,Team Member
+396,Employee 396,Probationary,5/25/2020,2,Makati,Team Member
+397,Employee 397,Probationary,5/25/2020,2,Makati,Team Member
+398,Employee 398,Probationary,6/5/2020,2,Makati,Team Member
+399,Employee 399,Probationary,6/8/2020,3,Makati,Leader
+400,Employee 400,Probationary,7/7/2020,2,Makati,Team Member
+401,Employee 401,Probationary,7/6/2020,2,Makati,Team Member
+402,Employee 402,Probationary,7/13/2020,2,Makati,Team Member
+403,Employee 403,Probationary,7/13/2020,2,Makati,Team Member
+404,Employee 404,Probationary,7/20/2020,2,Makati,Team Member
+405,Employee 405,Probationary,7/20/2020,2,Makati,Team Member
+406,Employee 406,Probationary,7/27/2020,2,Makati,Team Member
+407,Employee 407,Probationary,7/27/2020,2,Makati,Team Member
+408,Employee 408,Probationary,7/27/2020,2,Makati,Team Member
+409,Employee 409,Probationary,8/24/2020,2,Makati,Team Member
+410,Employee 410,Probationary,8/24/2020,3,Makati,Leader
+411,Employee 411,Probationary,8/31/2020,2,Makati,Team Member
+412,Employee 412,Probationary,8/31/2020,2,Makati,Team Member
+413,Employee 413,Regular,4/29/2013,2,Legazpi,Team Member
+414,Employee 414,Regular,12/4/2013,1,Legazpi,Team Member
+415,Employee 415,Regular,11/26/2013,3,Legazpi,Leader
+416,Employee 416,Regular,11/6/2014,2,Legazpi,Team Member
+417,Employee 417,Regular,11/23/2015,2,Legazpi,Team Member
+418,Employee 418,Regular,12/1/2014,2,Legazpi,Team Member
+419,Employee 419,Regular,11/23/2015,2,Legazpi,Team Member
+420,Employee 420,Regular,1/19/2015,2,Legazpi,Team Member
+421,Employee 421,Regular,11/2/2015,2,Legazpi,Team Member
+422,Employee 422,Regular,1/4/2016,2,Legazpi,Team Member
+423,Employee 423,Regular,2/1/2016,2,Legazpi,Team Member
+424,Employee 424,Regular,3/23/2016,2,Legazpi,Team Member
+425,Employee 425,Regular,1/4/2016,2,Legazpi,Team Member
+426,Employee 426,Regular,6/20/2016,2,Legazpi,Team Member
+427,Employee 427,Regular,6/8/2016,2,Legazpi,Team Member
+428,Employee 428,Regular,4/21/2016,2,Legazpi,Team Member
+429,Employee 429,Regular,6/4/2016,3,Legazpi,Leader
+430,Employee 430,Regular,7/24/2017,2,Legazpi,Team Member
+431,Employee 431,Regular,2/17/2017,2,Legazpi,Team Member
+432,Employee 432,Regular,1/19/2017,2,Legazpi,Team Member
+433,Employee 433,Regular,6/2/2014,3,Legazpi,Leader
+434,Employee 434,Regular,6/6/2017,2,Legazpi,Team Member
+435,Employee 435,Regular,11/2/2017,2,Legazpi,Team Member
+436,Employee 436,Regular,10/1/2017,2,Legazpi,Team Member
+437,Employee 437,Regular,3/28/2017,2,Legazpi,Team Member
+438,Employee 438,Regular,6/3/2017,2,Legazpi,Team Member
+439,Employee 439,Regular,8/25/2014,3,Legazpi,Leader
+440,Employee 440,Regular,10/26/2017,2,Legazpi,Team Member
+441,Employee 441,Regular,7/26/2018,3,Legazpi,Leader
+442,Employee 442,Regular,8/30/2018,2,Legazpi,Team Member
+443,Employee 443,Regular,1/22/2018,3,Legazpi,Leader
+444,Employee 444,Regular,11/16/2018,2,Legazpi,Team Member
+445,Employee 445,Regular,4/24/2018,2,Legazpi,Team Member
+446,Employee 446,Regular,3/15/2018,2,Legazpi,Team Member
+447,Employee 447,Regular,12/3/2018,2,Legazpi,Team Member
+448,Employee 448,Regular,6/16/2018,2,Legazpi,Team Member
+449,Employee 449,Regular,1/16/2019,2,Legazpi,Team Member
+450,Employee 450,Probationary,2/4/2019,2,Legazpi,Team Member
+451,Employee 451,Regular,9/9/2019,2,Legazpi,Team Member
+452,Employee 452,Regular,10/9/2019,2,Legazpi,Team Member
+453,Employee 453,Regular,3/15/2019,2,Legazpi,Team Member
+454,Employee 454,Regular,9/9/2019,2,Legazpi,Team Member
+455,Employee 455,Regular,9/23/2019,2,Legazpi,Team Member
+456,Employee 456,Regular,4/1/2019,2,Legazpi,Team Member
+457,Employee 457,Regular,4/1/2019,2,Legazpi,Team Member
+458,Employee 458,Regular,9/9/2019,2,Legazpi,Team Member
+459,Employee 459,Regular,9/9/2019,2,Legazpi,Team Member
+460,Employee 460,Regular,9/9/2019,3,Legazpi,Leader
+461,Employee 461,Regular,9/9/2019,2,Legazpi,Team Member
+462,Employee 462,Regular,9/9/2019,2,Legazpi,Team Member
+463,Employee 463,Regular,9/9/2019,2,Legazpi,Team Member
+464,Employee 464,Regular,9/9/2019,2,Legazpi,Team Member
+465,Employee 465,Regular,7/1/2019,2,Legazpi,Team Member
+466,Employee 466,Regular,9/9/2019,2,Legazpi,Team Member
+467,Employee 467,Regular,10/2/2019,2,Legazpi,Team Member
+468,Employee 468,Regular,11/20/2019,2,Legazpi,Team Member
+469,Employee 469,Regular,2/6/2020,2,Legazpi,Team Member
+470,Employee 470,Probationary,2/3/2020,2,Legazpi,Team Member
+471,Employee 471,Regular,3/2/2020,2,Legazpi,Team Member
+472,Employee 472,Part-Time,2/1/2020,2,Legazpi,Team Member
+473,Employee 473,Regular,4/6/2020,2,Legazpi,Team Member
+474,Employee 474,Probationary,7/13/2020,2,Legazpi,Team Member
+475,Employee 475,Regular,11/28/2016,2,Makati,Team Member
+476,Employee 476,Regular,2/5/2018,2,Makati,Team Member
+477,Employee 477,Regular,1/21/2019,2,Makati,Team Member
+478,Employee 478,Regular,5/13/2019,2,Makati,Team Member
+479,Employee 479,Regular,7/16/2018,2,Makati,Team Member
+480,Employee 480,Regular,12/2/2019,2,Makati,Team Member
+481,Employee 481,Regular,3/14/2016,3,Makati,Leader
+482,Employee 482,Regular,2/17/2015,3,Makati,Leader
+483,Employee 483,Regular,3/30/2020,2,Makati,Team Member
+484,Employee 484,Regular,12/11/2017,2,Makati,Team Member
+485,Employee 485,Regular,5/5/2020,2,Makati,Team Member
+486,Employee 486,Regular,5/4/2020,2,Makati,Team Member
+487,Employee 487,Regular,2/17/2020,2,Makati,Team Member
+488,Employee 488,Regular,2/11/2008,3,Makati,Leader
+489,Employee 489,Regular,2/5/2018,2,Makati,Team Member
+490,Employee 490,Regular,7/25/2011,3,Makati,Leader
+491,Employee 491,Probationary,6/15/2020,3,Makati,Leader
+492,Employee 492,Regular,5/11/2015,3,Makati,Leader
+493,Employee 493,Regular,6/18/2018,2,Makati,Team Member
+494,Employee 494,Regular,6/18/2018,2,Makati,Team Member
+495,Employee 495,Regular,3/2/2020,2,Makati,Team Member
+496,Employee 496,Probationary,8/17/2020,2,Makati,Team Member
+497,Employee 497,Regular,2/17/2020,2,Makati,Team Member
+498,Employee 498,Regular,12/2/2019,4,Makati,Leader
+499,Employee 499,Regular,8/1/2017,2,Makati,Team Member
+500,Employee 500,Regular,1/2/2019,2,Makati,Team Member
+501,Employee 501,Regular,1/30/2017,2,Makati,Team Member
+502,Employee 502,Probationary,8/17/2020,2,Makati,Team Member
+503,Employee 503,Regular,11/4/2019,2,Makati,Team Member
+504,Employee 504,Regular,6/18/2018,3,Makati,Leader
+505,Employee 505,Regular,6/18/2018,2,Makati,Team Member
+506,Employee 506,Regular,8/17/2015,4,Makati,Leader
+507,Employee 507,Regular,8/27/2018,2,Makati,Team Member
+508,Employee 508,Regular,5/11/2016,2,Makati,Team Member
+509,Employee 509,Regular,6/4/2018,2,Makati,Team Member
+510,Employee 510,Regular,10/5/2015,3,Makati,Leader
+511,Employee 511,Regular,10/8/2018,2,Makati,Team Member
+512,Employee 512,Regular,10/2/2017,3,Makati,Leader
+513,Employee 513,Probationary,7/13/2020,2,Makati,Team Member
+514,Employee 514,Probationary,12/26/2018,3,Makati,Leader
+515,Employee 515,Regular,4/15/2019,2,Makati,Team Member
+516,Employee 516,Regular,3/5/2018,4,Makati,Leader
+517,Employee 517,Regular,9/30/2019,2,Makati,Team Member
+518,Employee 518,Regular,11/23/2018,2,Makati,Team Member
+519,Employee 519,Regular,5/27/2019,2,Makati,Team Member
+520,Employee 520,Regular,8/5/2019,2,Makati,Team Member
+521,Employee 521,Regular,1/20/2020,2,Makati,Team Member
+522,Employee 522,Regular,5/26/2020,2,Makati,Team Member
+523,Employee 523,Regular,4/29/2019,2,Makati,Team Member
+524,Employee 524,Regular,5/5/2020,2,Makati,Team Member
+525,Employee 525,Regular,7/20/2017,2,Makati,Team Member
+526,Employee 526,Regular,9/9/2019,2,Makati,Team Member
+527,Employee 527,Regular,9/24/2012,4,Makati,Leader
+528,Employee 528,Regular,6/3/2019,2,Makati,Team Member
+529,Employee 529,Regular,11/23/2018,2,Makati,Team Member
+530,Employee 530,Regular,7/16/2018,2,Makati,Team Member
+531,Employee 531,Regular,6/17/2019,2,Makati,Team Member
+532,Employee 532,Regular,5/13/2019,2,Makati,Team Member
+533,Employee 533,Regular,3/18/2019,2,Makati,Team Member
+534,Employee 534,Regular,12/19/2018,2,Makati,Team Member
+535,Employee 535,Regular,11/5/2018,2,Makati,Team Member
+536,Employee 536,Regular,3/12/2012,5,Makati,Leader
+537,Employee 537,Regular,6/27/2018,3,Makati,Leader
+538,Employee 538,Regular,7/12/2016,2,Makati,Team Member
+539,Employee 539,Regular,10/1/2018,2,Makati,Team Member
+540,Employee 540,Regular,8/8/2016,2,Makati,Team Member
+541,Employee 541,Probationary,10/12/2020,2,Makati,Team Member
+542,Employee 542,Regular,4/28/2014,4,Makati,Leader
+543,Employee 543,Regular,9/25/2014,3,Makati,Leader
+544,Employee 544,Regular,10/8/2018,2,Makati,Team Member
+545,Employee 545,Probationary,7/13/2020,2,Makati,Team Member
+546,Employee 546,Regular,8/26/2019,2,Makati,Team Member
+547,Employee 547,Regular,5/6/2013,3,Makati,Leader
+548,Employee 548,Regular,4/15/2019,2,Makati,Team Member
+549,Employee 549,Regular,5/27/2019,2,Makati,Team Member
+550,Employee 550,Probationary,8/3/2020,2,Makati,Team Member
+551,Employee 551,Regular,5/27/2014,3,Makati,Leader
+552,Employee 552,Regular,3/30/2020,2,Makati,Team Member
+553,Employee 553,Regular,5/13/2019,2,Makati,Team Member
+554,Employee 554,Regular,7/27/2015,3,Makati,Leader
+555,Employee 555,Regular,11/16/2017,2,Makati,Team Member
+556,Employee 556,Regular,7/23/2018,2,Makati,Team Member
+557,Employee 557,Regular,5/17/2018,2,Makati,Team Member
+558,Employee 558,Probationary,6/8/2020,2,Makati,Team Member
+559,Employee 559,Regular,8/1/2017,2,Makati,Team Member
+560,Employee 560,Regular,1/23/2017,2,Makati,Team Member
+561,Employee 561,Regular,4/27/2018,2,Makati,Team Member
+562,Employee 562,Regular,6/26/2017,2,Makati,Team Member
+563,Employee 563,Regular,12/7/2018,2,Makati,Team Member
+564,Employee 564,Regular,2/17/2015,2,Makati,Team Member
+565,Employee 565,Regular,10/8/2015,3,Makati,Leader
+566,Employee 566,Regular,3/13/2017,2,Makati,Team Member
+567,Employee 567,Regular,1/7/2019,2,Makati,Team Member
+568,Employee 568,Regular,3/2/2020,2,Makati,Team Member
+569,Employee 569,Regular,5/13/2019,2,Makati,Team Member
+570,Employee 570,Regular,4/10/2018,2,Makati,Team Member
+571,Employee 571,Regular,8/19/2019,4,Makati,Leader
+572,Employee 572,Regular,8/5/2019,2,Makati,Team Member
+573,Employee 573,Regular,2/2/2018,3,Makati,Leader
+574,Employee 574,Regular,3/6/2017,2,Makati,Team Member
+575,Employee 575,Regular,4/13/2020,2,Makati,Team Member
+576,Employee 576,Regular,7/8/2013,2,Makati,Team Member
+577,Employee 577,Regular,4/10/2017,4,Makati,Leader
+578,Employee 578,Regular,3/27/2017,2,Makati,Team Member
+579,Employee 579,Regular,7/18/2016,2,Makati,Team Member
+580,Employee 580,Regular,3/23/2018,2,Makati,Team Member
+581,Employee 581,Regular,8/16/2018,2,Makati,Team Member
+582,Employee 582,Regular,1/24/2014,4,Makati,Leader
+583,Employee 583,Regular,7/16/2018,2,Makati,Team Member
+584,Employee 584,Regular,7/16/2018,2,Makati,Team Member
+585,Employee 585,Regular,8/19/2019,2,Makati,Team Member
+586,Employee 586,Probationary,8/5/2019,2,Makati,Team Member
+587,Employee 587,Regular,5/17/2017,2,Makati,Team Member
+588,Employee 588,Regular,4/22/2019,2,Makati,Team Member
+589,Employee 589,Regular,2/19/2019,2,Makati,Team Member
+590,Employee 590,Regular,3/13/2017,4,Makati,Leader
+591,Employee 591,Regular,6/26/2017,2,Makati,Team Member
+592,Employee 592,Regular,3/24/2014,3,Makati,Leader
+593,Employee 593,Regular,9/30/2019,2,Makati,Team Member
+594,Employee 594,Regular,5/21/2018,2,Makati,Team Member
+595,Employee 595,Regular,12/21/2015,4,Makati,Leader
+596,Employee 596,Regular,9/23/2019,3,Makati,Leader
+597,Employee 597,Regular,6/22/2015,3,Makati,Leader
+598,Employee 598,Regular,1/22/2018,2,Makati,Team Member
+599,Employee 599,Regular,4/13/2020,2,Makati,Team Member
+600,Employee 600,Regular,1/5/2015,2,Makati,Team Member
+601,Employee 601,Regular,3/23/2020,2,Makati,Team Member
+602,Employee 602,Regular,1/6/2020,2,Makati,Team Member
+603,Employee 603,Regular,8/5/2019,2,Makati,Team Member
+604,Employee 604,Regular,3/28/2016,3,Makati,Leader
+605,Employee 605,Regular,11/19/2018,2,Makati,Team Member
+606,Employee 606,Regular,10/7/2019,2,Makati,Team Member
+607,Employee 607,Regular,7/23/2018,2,Makati,Team Member
+608,Employee 608,Regular,8/1/2017,2,Makati,Team Member
+609,Employee 609,Regular,1/29/2018,2,Makati,Team Member
+610,Employee 610,Regular,8/17/2015,4,Makati,Leader
+611,Employee 611,Regular,6/15/2020,2,Makati,Team Member
+612,Employee 612,Regular,3/2/2020,2,Makati,Team Member
+613,Employee 613,Regular,8/27/2018,2,Makati,Team Member
+614,Employee 614,Regular,1/16/2012,3,Makati,Leader
+615,Employee 615,Regular,5/18/2020,2,Makati,Team Member
+616,Employee 616,Regular,4/15/2019,2,Makati,Team Member
+617,Employee 617,Regular,11/2/2018,2,Makati,Team Member
+618,Employee 618,Regular,7/30/2018,2,Makati,Team Member
+619,Employee 619,Regular,1/22/2018,2,Makati,Team Member
+620,Employee 620,Regular,7/15/2019,2,Makati,Team Member
+621,Employee 621,Regular,2/17/2020,2,Makati,Team Member
+622,Employee 622,Regular,2/6/2019,2,Makati,Team Member
+623,Employee 623,Regular,7/1/2009,5,Makati,Leader
+624,Employee 624,Regular,11/2/2018,2,Makati,Team Member
+625,Employee 625,Regular,1/1/2011,4,Makati,Leader
+626,Employee 626,Regular,3/2/2015,3,Makati,Leader
+627,Employee 627,Regular,5/27/2019,2,Makati,Team Member
+628,Employee 628,Regular,6/25/2018,2,Makati,Team Member
+629,Employee 629,Regular,5/13/2019,2,Makati,Team Member
+630,Employee 630,Regular,2/17/2015,3,Makati,Leader
+631,Employee 631,Regular,6/25/2018,2,Makati,Team Member
+632,Employee 632,Regular,6/3/2019,2,Makati,Team Member
+633,Employee 633,Probationary,6/15/2020,2,Makati,Team Member
+634,Employee 634,Regular,4/15/2019,2,Makati,Team Member
+635,Employee 635,Regular,6/1/2015,3,Makati,Leader
+636,Employee 636,Regular,6/17/2019,2,Makati,Team Member
+637,Employee 637,Regular,4/6/2015,3,Makati,Leader
+638,Employee 638,Regular,11/28/2016,2,Makati,Team Member
+639,Employee 639,Regular,7/16/2018,2,Makati,Team Member
+640,Employee 640,Probationary,7/6/2020,2,Makati,Team Member
+641,Employee 641,Regular,3/7/2016,3,Makati,Leader
+642,Employee 642,Regular,7/1/2019,4,Makati,Leader
+643,Employee 643,Regular,1/18/2016,3,Makati,Leader
+644,Employee 644,Regular,7/16/2018,2,Makati,Team Member
+645,Employee 645,Regular,2/8/2016,2,Makati,Team Member
+646,Employee 646,Regular,5/4/2020,2,Makati,Team Member
+647,Employee 647,Regular,1/23/2017,2,Makati,Team Member
+648,Employee 648,Regular,2/3/2020,2,Makati,Team Member
+649,Employee 649,Regular,4/3/2017,2,Makati,Team Member
+650,Employee 650,Probationary,3/2/2020,2,Makati,Team Member
+651,Employee 651,Regular,9/23/2019,2,Makati,Team Member
+652,Employee 652,Regular,1/28/2019,2,Makati,Team Member
+653,Employee 653,Regular,1/15/2018,2,Makati,Team Member
+654,Employee 654,Regular,1/14/2019,2,Makati,Team Member
+655,Employee 655,Regular,1/22/2019,2,Makati,Team Member
+656,Employee 656,Probationary,8/3/2020,2,Makati,Team Member
+657,Employee 657,Regular,11/23/2018,2,Makati,Team Member
+658,Employee 658,Regular,10/17/2016,2,Makati,Team Member
+659,Employee 659,Regular,3/23/2020,2,Makati,Team Member
+660,Employee 660,Regular,10/29/2018,2,Makati,Team Member
+661,Employee 661,Probationary,6/15/2020,2,Makati,Team Member
+662,Employee 662,Regular,7/15/2019,2,Makati,Team Member
+663,Employee 663,Regular,4/27/2020,2,Makati,Team Member
+664,Employee 664,Regular,1/28/2019,2,Makati,Team Member
+665,Employee 665,Regular,5/4/2020,2,Makati,Team Member
+666,Employee 666,Regular,4/11/2016,3,Makati,Leader
+667,Employee 667,Regular,5/4/2020,2,Makati,Team Member
+668,Employee 668,Regular,1/20/2020,2,Makati,Team Member
+669,Employee 669,Regular,10/22/2012,4,Makati,Leader
+670,Employee 670,Regular,7/2/2018,2,Makati,Team Member
+671,Employee 671,Regular,3/23/2015,3,Makati,Leader
+672,Employee 672,Regular,5/14/2013,4,Makati,Leader
